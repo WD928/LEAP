@@ -1,0 +1,325 @@
+representation,cas,name_en,SMILES,y_true_delta,y_pred_delta
+hard_only,98626-95-0,5-bromo-2-methylsulfonylpyridine,CS(=O)(=O)C1=NC=C(C=C1)Br,0.0316062176165803,0.002768811384668217
+hard_only,58483-98-0,2-amino-5-bromopyridine-3-carboxamide,C1=C(C=NC(=C1C(=O)N)N)Br,0.0170984455958548,-0.07934472877456991
+hard_only,4393-16-2,(4-methylsulfonylphenyl)methanamine,CS(=O)(=O)C1=CC=C(C=C1)CN,0.0129533678756477,0.029690923021138772
+hard_only,616-79-5,2-amino-5-nitrobenzoic acid,C1=CC(=C(C=C1[N+](=O)[O-])C(=O)O)N,-0.0238341968911918,-0.12392213246489805
+hard_only,55276-43-2,1-methylsulfonylpiperazine,CS(=O)(=O)N1CCNCC1,-0.0176165803108808,-0.026318453317702765
+hard_only,17852-52-7,4-hydrazinylbenzenesulfonamide;hydrochloride,C1=CC(=CC=C1NN)S(=O)(=O)N.Cl,-0.00932642487046631,-0.07618284007738159
+hard_only,133115-72-7,[4-(trifluoromethoxy)phenyl]hydrazine;hydrochloride,C1=CC(=CC=C1NN)OC(F)(F)F.Cl,-0.077720207253886,-0.01016504723490396
+hard_only,191595-63-8,2-oxo-6-(trifluoromethyl)-1H-pyridine-3-carboxylic acid,C1=C(C(=O)NC(=C1)C(F)(F)F)C(=O)O,-0.0258848388800844,-0.12123980409527799
+hard_only,23779-96-6,8-(trifluoromethyl)-1H-quinolin-4-one,C1=CC2=C(C(=C1)C(F)(F)F)NC=CC2=O,0.00633914421553096,-0.030306110302980763
+hard_only,1980053-18-6,"8-chloro-6-(trifluoromethyl)imidazo[1,2-a]pyridine-2-carboxylic acid;hydrate",C1=C(C2=NC(=CN2C=C1C(F)(F)F)C(=O)O)Cl.O,-0.228737453777073,-0.025131552858562067
+hard_only,30825-34-4,"(2R,3S)-3-hydroxy-2-(4-methoxyphenyl)-3,5-dihydro-2H-1,5-benzothiazepin-4-one",COC1=CC=C(C=C1)[C@@H]2[C@H](C(=O)NC3=CC=CC=C3S2)O,-0.0327522451135764,-0.10957653021805991
+hard_only,6526-08-5,2-amino-5-(trifluoromethyl)benzonitrile,C1=CC(=C(C=C1C(F)(F)F)C#N)N,-0.0802958267300581,-0.021927862254566874
+hard_only,1701-18-4,2-(trifluoromethyl)-1H-quinolin-4-one,C1=CC=C2C(=C1)C(=O)C=C(N2)C(F)(F)F,-0.0147913365029055,-0.019533116374983714
+hard_only,1017789-38-6,"tert-butyl N-(4,6-dichloro-2-pyridinyl)carbamate",CC(C)(C)OC(=O)NC1=NC(=CC(=C1)Cl)Cl,0.0454305335446381,-0.015389788615096323
+hard_only,117-39-5,"2-(3,4-dihydroxyphenyl)-3,5,7-trihydroxychromen-4-one",C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,-0.597781299524564,-0.0551410693677478
+hard_only,368-90-1,[4-(trifluoromethyl)phenyl]hydrazine,C1=CC(=CC=C1C(F)(F)F)NN,-0.0443740095087163,-0.04528844560090395
+hard_only,76041-72-0,5-(trifluoromethyl)-1H-pyridine-2-thione,C1=CC(=S)NC=C1C(F)(F)F,-0.0195456946645537,-0.009196302938516775
+hard_only,3251-56-7,2-methoxy-4-nitrophenol,COC1=C(C=CC(=C1)[N+](=O)[O-])O,-0.0147540983606557,-0.1405027116989626
+hard_only,745784-04-7,"3,5-difluoropyridine-2-carboxylic acid",C1=C(C=NC(=C1F)C(=O)O)F,0.0153005464480873,-0.015390253464106315
+hard_only,434-76-4,2-amino-6-fluorobenzoic acid,C1=CC(=C(C(=C1)F)C(=O)O)N,-0.00655737704918038,0.006013350540292464
+hard_only,578-22-3,5-hydroxy-2-methylbenzoic acid,CC1=C(C=C(C=C1)O)C(=O)O,0.0202185792349727,-0.11291957728768512
+hard_only,331-39-5,"(E)-3-(3,4-dihydroxyphenyl)prop-2-enoic acid",C1=CC(=C(C=C1/C=C/C(=O)O)O)O,-0.263934426229508,-0.16264963436516613
+hard_only,33630-99-8,3-amino-1H-pyridin-2-one,C1=CNC(=O)C(=C1)N,-0.155737704918033,-0.01205530365362744
+hard_only,123-03-5,1-hexadecylpyridin-1-ium chloride,CCCCCCCCCCCCCCCC[N+]1=CC=CC=C1.[Cl-],-0.00109289617486336,-0.002811154964474455
+hard_only,57-66-9,4-(dipropylsulfamoyl)benzoic acid,CCCN(CCC)S(=O)(=O)C1=CC=C(C=C1)C(=O)O,-0.00273224043715851,-0.036337286923640424
+hard_only,149-91-7,"3,4,5-trihydroxybenzoic acid",C1=C(C=C(C(=C1O)O)O)C(=O)O,-0.368306010928962,-0.2981093926240874
+hard_only,158063-66-2,4-(trifluoromethyl)pyridine-3-carboxylic acid,C1=CN=CC(=C1C(F)(F)F)C(=O)O,0.0,-0.031166088802380053
+hard_only,627-95-2,5-aminopentanoic acid;hydrochloride,C(CCN)CC(=O)O.Cl,0.0102702702702703,-0.00729362104947253
+hard_only,6705-03-9,2-amino-5-methoxybenzoic acid,COC1=CC(=C(C=C1)N)C(=O)O,-0.00486486486486486,0.011123061709326039
+hard_only,4518-10-9,methyl 3-aminobenzoate,COC(=O)C1=CC(=CC=C1)N,0.0405405405405405,-0.015621039070693753
+hard_only,6232-11-7,methyl 4-(aminomethyl)benzoate;hydrochloride,COC(=O)C1=CC=C(C=C1)CN.Cl,-0.0232432432432432,0.0454528316743974
+hard_only,3724-19-4,3-pyridin-3-ylpropanoic acid,C1=CC(=CN=C1)CCC(=O)O,-0.0172972972972973,0.04925757163422991
+hard_only,1670-14-0,benzenecarboximidamide;hydrochloride,C1=CC=C(C=C1)C(=N)N.Cl,0.0210810810810811,-0.034431020301678335
+hard_only,3167-49-5,6-aminopyridine-3-carboxylic acid,C1=CC(=NC=C1C(=O)O)N,-0.0540540540540541,-0.02760178957253707
+hard_only,62247-21-6,3-amino-3-pyridin-3-ylpropanoic acid,C1=CC(=CN=C1)C(CC(=O)O)N,0.0140540540540541,-0.05105005493751373
+hard_only,6000-44-8,sodium 2-aminoacetate,C(C(=O)[O-])N.[Na+],-0.205405405405405,-0.0645572123254254
+mechanism_mean_only,98626-95-0,5-bromo-2-methylsulfonylpyridine,CS(=O)(=O)C1=NC=C(C=C1)Br,0.0316062176165803,-0.05963866200372869
+mechanism_mean_only,58483-98-0,2-amino-5-bromopyridine-3-carboxamide,C1=C(C=NC(=C1C(=O)N)N)Br,0.0170984455958548,-0.05922415423170797
+mechanism_mean_only,4393-16-2,(4-methylsulfonylphenyl)methanamine,CS(=O)(=O)C1=CC=C(C=C1)CN,0.0129533678756477,-0.059105723439702045
+mechanism_mean_only,616-79-5,2-amino-5-nitrobenzoic acid,C1=CC(=C(C=C1[N+](=O)[O-])C(=O)O)N,-0.0238341968911918,0.013981251206800528
+mechanism_mean_only,55276-43-2,1-methylsulfonylpiperazine,CS(=O)(=O)N1CCNCC1,-0.0176165803108808,-0.05823229641980895
+mechanism_mean_only,17852-52-7,4-hydrazinylbenzenesulfonamide;hydrochloride,C1=CC(=CC=C1NN)S(=O)(=O)N.Cl,-0.00932642487046631,-0.05846915793267022
+mechanism_mean_only,133115-72-7,[4-(trifluoromethoxy)phenyl]hydrazine;hydrochloride,C1=CC(=CC=C1NN)OC(F)(F)F.Cl,-0.077720207253886,-0.056515049864572516
+mechanism_mean_only,191595-63-8,2-oxo-6-(trifluoromethyl)-1H-pyridine-3-carboxylic acid,C1=C(C(=O)NC(=C1)C(F)(F)F)C(=O)O,-0.0258848388800844,-0.05799606038953828
+mechanism_mean_only,23779-96-6,8-(trifluoromethyl)-1H-quinolin-4-one,C1=CC2=C(C(=C1)C(F)(F)F)NC=CC2=O,0.00633914421553096,-0.05891674562084157
+mechanism_mean_only,1980053-18-6,"8-chloro-6-(trifluoromethyl)imidazo[1,2-a]pyridine-2-carboxylic acid;hydrate",C1=C(C2=NC(=CN2C=C1C(F)(F)F)C(=O)O)Cl.O,-0.228737453777073,-0.05220027139248145
+mechanism_mean_only,30825-34-4,"(2R,3S)-3-hydroxy-2-(4-methoxyphenyl)-3,5-dihydro-2H-1,5-benzothiazepin-4-one",COC1=CC=C(C=C1)[C@@H]2[C@H](C(=O)NC3=CC=CC=C3S2)O,-0.0327522451135764,-0.05779984878286707
+mechanism_mean_only,6526-08-5,2-amino-5-(trifluoromethyl)benzonitrile,C1=CC(=C(C=C1C(F)(F)F)C#N)N,-0.0802958267300581,-0.05644146073668188
+mechanism_mean_only,1701-18-4,2-(trifluoromethyl)-1H-quinolin-4-one,C1=CC=C2C(=C1)C(=O)C=C(N2)C(F)(F)F,-0.0147913365029055,-0.05831301760031481
+mechanism_mean_only,1017789-38-6,"tert-butyl N-(4,6-dichloro-2-pyridinyl)carbamate",CC(C)(C)OC(=O)NC1=NC(=CC(=C1)Cl)Cl,0.0454305335446381,-0.06003364245881606
+mechanism_mean_only,117-39-5,"2-(3,4-dihydroxyphenyl)-3,5,7-trihydroxychromen-4-one",C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,-0.597781299524564,-0.04165616151398171
+mechanism_mean_only,368-90-1,[4-(trifluoromethyl)phenyl]hydrazine,C1=CC(=CC=C1C(F)(F)F)NN,-0.0443740095087163,-0.05746779837157737
+mechanism_mean_only,76041-72-0,5-(trifluoromethyl)-1H-pyridine-2-thione,C1=CC(=S)NC=C1C(F)(F)F,-0.0195456946645537,-0.0581771787956963
+mechanism_mean_only,3251-56-7,2-methoxy-4-nitrophenol,COC1=C(C=CC(=C1)[N+](=O)[O-])O,-0.0147540983606557,-0.05831408154723624
+mechanism_mean_only,745784-04-7,"3,5-difluoropyridine-2-carboxylic acid",C1=C(C=NC(=C1F)C(=O)O)F,0.0153005464480873,-0.059172785684628894
+mechanism_mean_only,434-76-4,2-amino-6-fluorobenzoic acid,C1=CC(=C(C(=C1)F)C(=O)O)N,-0.00655737704918038,-0.05854827358470696
+mechanism_mean_only,578-22-3,5-hydroxy-2-methylbenzoic acid,CC1=C(C=C(C=C1)O)C(=O)O,0.0202185792349727,-0.05931330090711133
+mechanism_mean_only,331-39-5,"(E)-3-(3,4-dihydroxyphenyl)prop-2-enoic acid",C1=CC(=C(C=C1/C=C/C(=O)O)O)O,-0.263934426229508,-0.05119464360812617
+mechanism_mean_only,33630-99-8,3-amino-1H-pyridin-2-one,C1=CNC(=O)C(=C1)N,-0.155737704918033,-0.05428597850273975
+mechanism_mean_only,123-03-5,1-hexadecylpyridin-1-ium chloride,CCCCCCCCCCCCCCCC[N+]1=CC=CC=C1.[Cl-],-0.00109289617486336,-0.058704401609687436
+mechanism_mean_only,57-66-9,4-(dipropylsulfamoyl)benzoic acid,CCCN(CCC)S(=O)(=O)C1=CC=C(C=C1)C(=O)O,-0.00273224043715851,-0.05865756320219329
+mechanism_mean_only,149-91-7,"3,4,5-trihydroxybenzoic acid",C1=C(C=C(C(=C1O)O)O)C(=O)O,-0.368306010928962,-0.04821259833099892
+mechanism_mean_only,158063-66-2,4-(trifluoromethyl)pyridine-3-carboxylic acid,C1=CN=CC(=C1C(F)(F)F)C(=O)O,0.0,-0.05873562721468354
+mechanism_mean_only,627-95-2,5-aminopentanoic acid;hydrochloride,C(CCN)CC(=O)O.Cl,0.0102702702702703,-0.05902906350811984
+mechanism_mean_only,6705-03-9,2-amino-5-methoxybenzoic acid,COC1=CC(=C(C=C1)N)C(=O)O,-0.00486486486486486,-0.058596631075687404
+mechanism_mean_only,4518-10-9,methyl 3-aminobenzoate,COC(=O)C1=CC(=CC=C1)N,0.0405405405405405,-0.059893928372984705
+mechanism_mean_only,6232-11-7,methyl 4-(aminomethyl)benzoate;hydrochloride,COC(=O)C1=CC=C(C=C1)CN.Cl,-0.0232432432432432,-0.05807153455059087
+mechanism_mean_only,3724-19-4,3-pyridin-3-ylpropanoic acid,C1=CC(=CN=C1)CCC(=O)O,-0.0172972972972973,-0.05824141872047505
+mechanism_mean_only,1670-14-0,benzenecarboximidamide;hydrochloride,C1=CC=C(C=C1)C(=N)N.Cl,0.0210810810810811,-0.05933794381700014
+mechanism_mean_only,3167-49-5,6-aminopyridine-3-carboxylic acid,C1=CC(=NC=C1C(=O)O)N,-0.0540540540540541,-0.05719122567028198
+mechanism_mean_only,62247-21-6,3-amino-3-pyridin-3-ylpropanoic acid,C1=CC(=CN=C1)C(CC(=O)O)N,0.0140540540540541,-0.02386951573853925
+mechanism_mean_only,6000-44-8,sodium 2-aminoacetate,C(C(=O)[O-])N.[Na+],-0.205405405405405,-0.05286690134595768
+mechanism_mean_std,98626-95-0,5-bromo-2-methylsulfonylpyridine,CS(=O)(=O)C1=NC=C(C=C1)Br,0.0316062176165803,-0.04130593732596324
+mechanism_mean_std,58483-98-0,2-amino-5-bromopyridine-3-carboxamide,C1=C(C=NC(=C1C(=O)N)N)Br,0.0170984455958548,-0.0745280754279599
+mechanism_mean_std,4393-16-2,(4-methylsulfonylphenyl)methanamine,CS(=O)(=O)C1=CC=C(C=C1)CN,0.0129533678756477,-0.022819066310541404
+mechanism_mean_std,616-79-5,2-amino-5-nitrobenzoic acid,C1=CC(=C(C=C1[N+](=O)[O-])C(=O)O)N,-0.0238341968911918,0.003341356133409683
+mechanism_mean_std,55276-43-2,1-methylsulfonylpiperazine,CS(=O)(=O)N1CCNCC1,-0.0176165803108808,-0.1381114606444916
+mechanism_mean_std,17852-52-7,4-hydrazinylbenzenesulfonamide;hydrochloride,C1=CC(=CC=C1NN)S(=O)(=O)N.Cl,-0.00932642487046631,-0.26761604328125127
+mechanism_mean_std,133115-72-7,[4-(trifluoromethoxy)phenyl]hydrazine;hydrochloride,C1=CC(=CC=C1NN)OC(F)(F)F.Cl,-0.077720207253886,-0.05152323248453583
+mechanism_mean_std,191595-63-8,2-oxo-6-(trifluoromethyl)-1H-pyridine-3-carboxylic acid,C1=C(C(=O)NC(=C1)C(F)(F)F)C(=O)O,-0.0258848388800844,0.007963654525660918
+mechanism_mean_std,23779-96-6,8-(trifluoromethyl)-1H-quinolin-4-one,C1=CC2=C(C(=C1)C(F)(F)F)NC=CC2=O,0.00633914421553096,-0.04023542702951912
+mechanism_mean_std,1980053-18-6,"8-chloro-6-(trifluoromethyl)imidazo[1,2-a]pyridine-2-carboxylic acid;hydrate",C1=C(C2=NC(=CN2C=C1C(F)(F)F)C(=O)O)Cl.O,-0.228737453777073,-0.03646571956668248
+mechanism_mean_std,30825-34-4,"(2R,3S)-3-hydroxy-2-(4-methoxyphenyl)-3,5-dihydro-2H-1,5-benzothiazepin-4-one",COC1=CC=C(C=C1)[C@@H]2[C@H](C(=O)NC3=CC=CC=C3S2)O,-0.0327522451135764,-0.06041683994562727
+mechanism_mean_std,6526-08-5,2-amino-5-(trifluoromethyl)benzonitrile,C1=CC(=C(C=C1C(F)(F)F)C#N)N,-0.0802958267300581,-0.06469572938199747
+mechanism_mean_std,1701-18-4,2-(trifluoromethyl)-1H-quinolin-4-one,C1=CC=C2C(=C1)C(=O)C=C(N2)C(F)(F)F,-0.0147913365029055,-0.03552974815574114
+mechanism_mean_std,1017789-38-6,"tert-butyl N-(4,6-dichloro-2-pyridinyl)carbamate",CC(C)(C)OC(=O)NC1=NC(=CC(=C1)Cl)Cl,0.0454305335446381,-0.06266789556397072
+mechanism_mean_std,117-39-5,"2-(3,4-dihydroxyphenyl)-3,5,7-trihydroxychromen-4-one",C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,-0.597781299524564,-0.0416561615139817
+mechanism_mean_std,368-90-1,[4-(trifluoromethyl)phenyl]hydrazine,C1=CC(=CC=C1C(F)(F)F)NN,-0.0443740095087163,-0.07347612448095192
+mechanism_mean_std,76041-72-0,5-(trifluoromethyl)-1H-pyridine-2-thione,C1=CC(=S)NC=C1C(F)(F)F,-0.0195456946645537,-0.005912485198153877
+mechanism_mean_std,3251-56-7,2-methoxy-4-nitrophenol,COC1=C(C=CC(=C1)[N+](=O)[O-])O,-0.0147540983606557,-0.05295723297098619
+mechanism_mean_std,745784-04-7,"3,5-difluoropyridine-2-carboxylic acid",C1=C(C=NC(=C1F)C(=O)O)F,0.0153005464480873,0.011613825367274018
+mechanism_mean_std,434-76-4,2-amino-6-fluorobenzoic acid,C1=CC(=C(C(=C1)F)C(=O)O)N,-0.00655737704918038,0.02520998540209622
+mechanism_mean_std,578-22-3,5-hydroxy-2-methylbenzoic acid,CC1=C(C=C(C=C1)O)C(=O)O,0.0202185792349727,-0.002844014791813891
+mechanism_mean_std,331-39-5,"(E)-3-(3,4-dihydroxyphenyl)prop-2-enoic acid",C1=CC(=C(C=C1/C=C/C(=O)O)O)O,-0.263934426229508,-0.03742989472727133
+mechanism_mean_std,33630-99-8,3-amino-1H-pyridin-2-one,C1=CNC(=O)C(=C1)N,-0.155737704918033,-0.11240511481571488
+mechanism_mean_std,123-03-5,1-hexadecylpyridin-1-ium chloride,CCCCCCCCCCCCCCCC[N+]1=CC=CC=C1.[Cl-],-0.00109289617486336,-0.05908966695555821
+mechanism_mean_std,57-66-9,4-(dipropylsulfamoyl)benzoic acid,CCCN(CCC)S(=O)(=O)C1=CC=C(C=C1)C(=O)O,-0.00273224043715851,-0.016903259391028318
+mechanism_mean_std,149-91-7,"3,4,5-trihydroxybenzoic acid",C1=C(C=C(C(=C1O)O)O)C(=O)O,-0.368306010928962,-0.09708365181500601
+mechanism_mean_std,158063-66-2,4-(trifluoromethyl)pyridine-3-carboxylic acid,C1=CN=CC(=C1C(F)(F)F)C(=O)O,0.0,-0.03565373032023057
+mechanism_mean_std,627-95-2,5-aminopentanoic acid;hydrochloride,C(CCN)CC(=O)O.Cl,0.0102702702702703,-0.06718377017830382
+mechanism_mean_std,6705-03-9,2-amino-5-methoxybenzoic acid,COC1=CC(=C(C=C1)N)C(=O)O,-0.00486486486486486,-0.07501863152786946
+mechanism_mean_std,4518-10-9,methyl 3-aminobenzoate,COC(=O)C1=CC(=CC=C1)N,0.0405405405405405,-0.019418752495191337
+mechanism_mean_std,6232-11-7,methyl 4-(aminomethyl)benzoate;hydrochloride,COC(=O)C1=CC=C(C=C1)CN.Cl,-0.0232432432432432,-0.04038582039517503
+mechanism_mean_std,3724-19-4,3-pyridin-3-ylpropanoic acid,C1=CC(=CN=C1)CCC(=O)O,-0.0172972972972973,-0.01478255388783841
+mechanism_mean_std,1670-14-0,benzenecarboximidamide;hydrochloride,C1=CC=C(C=C1)C(=N)N.Cl,0.0210810810810811,0.015134558151608912
+mechanism_mean_std,3167-49-5,6-aminopyridine-3-carboxylic acid,C1=CC(=NC=C1C(=O)O)N,-0.0540540540540541,-0.09483956818368888
+mechanism_mean_std,62247-21-6,3-amino-3-pyridin-3-ylpropanoic acid,C1=CC(=CN=C1)C(CC(=O)O)N,0.0140540540540541,-0.01476111053839587
+mechanism_mean_std,6000-44-8,sodium 2-aminoacetate,C(C(=O)[O-])N.[Na+],-0.205405405405405,-0.12694531192051567
+full_soft_mean_only,98626-95-0,5-bromo-2-methylsulfonylpyridine,CS(=O)(=O)C1=NC=C(C=C1)Br,0.0316062176165803,-0.05963866200372869
+full_soft_mean_only,58483-98-0,2-amino-5-bromopyridine-3-carboxamide,C1=C(C=NC(=C1C(=O)N)N)Br,0.0170984455958548,-0.05922415423170797
+full_soft_mean_only,4393-16-2,(4-methylsulfonylphenyl)methanamine,CS(=O)(=O)C1=CC=C(C=C1)CN,0.0129533678756477,-0.059105723439702045
+full_soft_mean_only,616-79-5,2-amino-5-nitrobenzoic acid,C1=CC(=C(C=C1[N+](=O)[O-])C(=O)O)N,-0.0238341968911918,-0.058054650160649486
+full_soft_mean_only,55276-43-2,1-methylsulfonylpiperazine,CS(=O)(=O)N1CCNCC1,-0.0176165803108808,-0.20151346298256528
+full_soft_mean_only,17852-52-7,4-hydrazinylbenzenesulfonamide;hydrochloride,C1=CC(=CC=C1NN)S(=O)(=O)N.Cl,-0.00932642487046631,-0.05846915793267022
+full_soft_mean_only,133115-72-7,[4-(trifluoromethoxy)phenyl]hydrazine;hydrochloride,C1=CC(=CC=C1NN)OC(F)(F)F.Cl,-0.077720207253886,-0.056515049864572516
+full_soft_mean_only,191595-63-8,2-oxo-6-(trifluoromethyl)-1H-pyridine-3-carboxylic acid,C1=C(C(=O)NC(=C1)C(F)(F)F)C(=O)O,-0.0258848388800844,-0.05799606038953828
+full_soft_mean_only,23779-96-6,8-(trifluoromethyl)-1H-quinolin-4-one,C1=CC2=C(C(=C1)C(F)(F)F)NC=CC2=O,0.00633914421553096,-0.05891674562084157
+full_soft_mean_only,1980053-18-6,"8-chloro-6-(trifluoromethyl)imidazo[1,2-a]pyridine-2-carboxylic acid;hydrate",C1=C(C2=NC(=CN2C=C1C(F)(F)F)C(=O)O)Cl.O,-0.228737453777073,-0.05220027139248145
+full_soft_mean_only,30825-34-4,"(2R,3S)-3-hydroxy-2-(4-methoxyphenyl)-3,5-dihydro-2H-1,5-benzothiazepin-4-one",COC1=CC=C(C=C1)[C@@H]2[C@H](C(=O)NC3=CC=CC=C3S2)O,-0.0327522451135764,-0.05779984878286707
+full_soft_mean_only,6526-08-5,2-amino-5-(trifluoromethyl)benzonitrile,C1=CC(=C(C=C1C(F)(F)F)C#N)N,-0.0802958267300581,-0.05644146073668188
+full_soft_mean_only,1701-18-4,2-(trifluoromethyl)-1H-quinolin-4-one,C1=CC=C2C(=C1)C(=O)C=C(N2)C(F)(F)F,-0.0147913365029055,-0.05831301760031481
+full_soft_mean_only,1017789-38-6,"tert-butyl N-(4,6-dichloro-2-pyridinyl)carbamate",CC(C)(C)OC(=O)NC1=NC(=CC(=C1)Cl)Cl,0.0454305335446381,-0.06003364245881606
+full_soft_mean_only,117-39-5,"2-(3,4-dihydroxyphenyl)-3,5,7-trihydroxychromen-4-one",C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,-0.597781299524564,-0.04165616151398171
+full_soft_mean_only,368-90-1,[4-(trifluoromethyl)phenyl]hydrazine,C1=CC(=CC=C1C(F)(F)F)NN,-0.0443740095087163,-0.05746779837157737
+full_soft_mean_only,76041-72-0,5-(trifluoromethyl)-1H-pyridine-2-thione,C1=CC(=S)NC=C1C(F)(F)F,-0.0195456946645537,-0.0581771787956963
+full_soft_mean_only,3251-56-7,2-methoxy-4-nitrophenol,COC1=C(C=CC(=C1)[N+](=O)[O-])O,-0.0147540983606557,-0.05831408154723624
+full_soft_mean_only,745784-04-7,"3,5-difluoropyridine-2-carboxylic acid",C1=C(C=NC(=C1F)C(=O)O)F,0.0153005464480873,-0.059172785684628894
+full_soft_mean_only,434-76-4,2-amino-6-fluorobenzoic acid,C1=CC(=C(C(=C1)F)C(=O)O)N,-0.00655737704918038,-0.05854827358470696
+full_soft_mean_only,578-22-3,5-hydroxy-2-methylbenzoic acid,CC1=C(C=C(C=C1)O)C(=O)O,0.0202185792349727,-0.05931330090711133
+full_soft_mean_only,331-39-5,"(E)-3-(3,4-dihydroxyphenyl)prop-2-enoic acid",C1=CC(=C(C=C1/C=C/C(=O)O)O)O,-0.263934426229508,-0.05119464360812617
+full_soft_mean_only,33630-99-8,3-amino-1H-pyridin-2-one,C1=CNC(=O)C(=C1)N,-0.155737704918033,-0.05428597850273975
+full_soft_mean_only,123-03-5,1-hexadecylpyridin-1-ium chloride,CCCCCCCCCCCCCCCC[N+]1=CC=CC=C1.[Cl-],-0.00109289617486336,-0.058704401609687436
+full_soft_mean_only,57-66-9,4-(dipropylsulfamoyl)benzoic acid,CCCN(CCC)S(=O)(=O)C1=CC=C(C=C1)C(=O)O,-0.00273224043715851,-0.05865756320219329
+full_soft_mean_only,149-91-7,"3,4,5-trihydroxybenzoic acid",C1=C(C=C(C(=C1O)O)O)C(=O)O,-0.368306010928962,-0.04821259833099892
+full_soft_mean_only,158063-66-2,4-(trifluoromethyl)pyridine-3-carboxylic acid,C1=CN=CC(=C1C(F)(F)F)C(=O)O,0.0,-0.05873562721468354
+full_soft_mean_only,627-95-2,5-aminopentanoic acid;hydrochloride,C(CCN)CC(=O)O.Cl,0.0102702702702703,-0.05902906350811984
+full_soft_mean_only,6705-03-9,2-amino-5-methoxybenzoic acid,COC1=CC(=C(C=C1)N)C(=O)O,-0.00486486486486486,-0.058596631075687404
+full_soft_mean_only,4518-10-9,methyl 3-aminobenzoate,COC(=O)C1=CC(=CC=C1)N,0.0405405405405405,-0.059893928372984705
+full_soft_mean_only,6232-11-7,methyl 4-(aminomethyl)benzoate;hydrochloride,COC(=O)C1=CC=C(C=C1)CN.Cl,-0.0232432432432432,-0.05807153455059087
+full_soft_mean_only,3724-19-4,3-pyridin-3-ylpropanoic acid,C1=CC(=CN=C1)CCC(=O)O,-0.0172972972972973,-0.05824141872047505
+full_soft_mean_only,1670-14-0,benzenecarboximidamide;hydrochloride,C1=CC=C(C=C1)C(=N)N.Cl,0.0210810810810811,-0.05933794381700014
+full_soft_mean_only,3167-49-5,6-aminopyridine-3-carboxylic acid,C1=CC(=NC=C1C(=O)O)N,-0.0540540540540541,-0.05719122567028198
+full_soft_mean_only,62247-21-6,3-amino-3-pyridin-3-ylpropanoic acid,C1=CC(=CN=C1)C(CC(=O)O)N,0.0140540540540541,-0.05913717161622793
+full_soft_mean_only,6000-44-8,sodium 2-aminoacetate,C(C(=O)[O-])N.[Na+],-0.205405405405405,-0.05286690134595768
+full_soft_mean_std,98626-95-0,5-bromo-2-methylsulfonylpyridine,CS(=O)(=O)C1=NC=C(C=C1)Br,0.0316062176165803,-0.04028414329606747
+full_soft_mean_std,58483-98-0,2-amino-5-bromopyridine-3-carboxamide,C1=C(C=NC(=C1C(=O)N)N)Br,0.0170984455958548,-0.010873052980199208
+full_soft_mean_std,4393-16-2,(4-methylsulfonylphenyl)methanamine,CS(=O)(=O)C1=CC=C(C=C1)CN,0.0129533678756477,0.004466984832882874
+full_soft_mean_std,616-79-5,2-amino-5-nitrobenzoic acid,C1=CC(=C(C=C1[N+](=O)[O-])C(=O)O)N,-0.0238341968911918,0.025101820730172426
+full_soft_mean_std,55276-43-2,1-methylsulfonylpiperazine,CS(=O)(=O)N1CCNCC1,-0.0176165803108808,-0.1379720939945458
+full_soft_mean_std,17852-52-7,4-hydrazinylbenzenesulfonamide;hydrochloride,C1=CC(=CC=C1NN)S(=O)(=O)N.Cl,-0.00932642487046631,-0.2243781448309186
+full_soft_mean_std,133115-72-7,[4-(trifluoromethoxy)phenyl]hydrazine;hydrochloride,C1=CC(=CC=C1NN)OC(F)(F)F.Cl,-0.077720207253886,-0.04894896504830415
+full_soft_mean_std,191595-63-8,2-oxo-6-(trifluoromethyl)-1H-pyridine-3-carboxylic acid,C1=C(C(=O)NC(=C1)C(F)(F)F)C(=O)O,-0.0258848388800844,-0.05557900394131668
+full_soft_mean_std,23779-96-6,8-(trifluoromethyl)-1H-quinolin-4-one,C1=CC2=C(C(=C1)C(F)(F)F)NC=CC2=O,0.00633914421553096,-0.0376030631445224
+full_soft_mean_std,1980053-18-6,"8-chloro-6-(trifluoromethyl)imidazo[1,2-a]pyridine-2-carboxylic acid;hydrate",C1=C(C2=NC(=CN2C=C1C(F)(F)F)C(=O)O)Cl.O,-0.228737453777073,-0.05381845011437725
+full_soft_mean_std,30825-34-4,"(2R,3S)-3-hydroxy-2-(4-methoxyphenyl)-3,5-dihydro-2H-1,5-benzothiazepin-4-one",COC1=CC=C(C=C1)[C@@H]2[C@H](C(=O)NC3=CC=CC=C3S2)O,-0.0327522451135764,-0.022635885920459176
+full_soft_mean_std,6526-08-5,2-amino-5-(trifluoromethyl)benzonitrile,C1=CC(=C(C=C1C(F)(F)F)C#N)N,-0.0802958267300581,-0.07233792230823002
+full_soft_mean_std,1701-18-4,2-(trifluoromethyl)-1H-quinolin-4-one,C1=CC=C2C(=C1)C(=O)C=C(N2)C(F)(F)F,-0.0147913365029055,-0.0336862379701851
+full_soft_mean_std,1017789-38-6,"tert-butyl N-(4,6-dichloro-2-pyridinyl)carbamate",CC(C)(C)OC(=O)NC1=NC(=CC(=C1)Cl)Cl,0.0454305335446381,-0.08847508552173639
+full_soft_mean_std,117-39-5,"2-(3,4-dihydroxyphenyl)-3,5,7-trihydroxychromen-4-one",C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,-0.597781299524564,-0.04880980602856396
+full_soft_mean_std,368-90-1,[4-(trifluoromethyl)phenyl]hydrazine,C1=CC(=CC=C1C(F)(F)F)NN,-0.0443740095087163,-0.04641876316612884
+full_soft_mean_std,76041-72-0,5-(trifluoromethyl)-1H-pyridine-2-thione,C1=CC(=S)NC=C1C(F)(F)F,-0.0195456946645537,-0.011072367739658605
+full_soft_mean_std,3251-56-7,2-methoxy-4-nitrophenol,COC1=C(C=CC(=C1)[N+](=O)[O-])O,-0.0147540983606557,-0.05558176331910586
+full_soft_mean_std,745784-04-7,"3,5-difluoropyridine-2-carboxylic acid",C1=C(C=NC(=C1F)C(=O)O)F,0.0153005464480873,-0.006529369464728846
+full_soft_mean_std,434-76-4,2-amino-6-fluorobenzoic acid,C1=CC(=C(C(=C1)F)C(=O)O)N,-0.00655737704918038,-0.015542612030469666
+full_soft_mean_std,578-22-3,5-hydroxy-2-methylbenzoic acid,CC1=C(C=C(C=C1)O)C(=O)O,0.0202185792349727,0.023507448959694727
+full_soft_mean_std,331-39-5,"(E)-3-(3,4-dihydroxyphenyl)prop-2-enoic acid",C1=CC(=C(C=C1/C=C/C(=O)O)O)O,-0.263934426229508,-0.05239416050526847
+full_soft_mean_std,33630-99-8,3-amino-1H-pyridin-2-one,C1=CNC(=O)C(=C1)N,-0.155737704918033,-0.007881135289165064
+full_soft_mean_std,123-03-5,1-hexadecylpyridin-1-ium chloride,CCCCCCCCCCCCCCCC[N+]1=CC=CC=C1.[Cl-],-0.00109289617486336,-0.05787147625736538
+full_soft_mean_std,57-66-9,4-(dipropylsulfamoyl)benzoic acid,CCCN(CCC)S(=O)(=O)C1=CC=C(C=C1)C(=O)O,-0.00273224043715851,-0.017149566414574574
+full_soft_mean_std,149-91-7,"3,4,5-trihydroxybenzoic acid",C1=C(C=C(C(=C1O)O)O)C(=O)O,-0.368306010928962,-0.1274316849082592
+full_soft_mean_std,158063-66-2,4-(trifluoromethyl)pyridine-3-carboxylic acid,C1=CN=CC(=C1C(F)(F)F)C(=O)O,0.0,-0.008894793866537909
+full_soft_mean_std,627-95-2,5-aminopentanoic acid;hydrochloride,C(CCN)CC(=O)O.Cl,0.0102702702702703,-0.05264506197769133
+full_soft_mean_std,6705-03-9,2-amino-5-methoxybenzoic acid,COC1=CC(=C(C=C1)N)C(=O)O,-0.00486486486486486,-0.04589531045460604
+full_soft_mean_std,4518-10-9,methyl 3-aminobenzoate,COC(=O)C1=CC(=CC=C1)N,0.0405405405405405,-0.030120287277944885
+full_soft_mean_std,6232-11-7,methyl 4-(aminomethyl)benzoate;hydrochloride,COC(=O)C1=CC=C(C=C1)CN.Cl,-0.0232432432432432,-0.05088253123017475
+full_soft_mean_std,3724-19-4,3-pyridin-3-ylpropanoic acid,C1=CC(=CN=C1)CCC(=O)O,-0.0172972972972973,-0.006549285767870075
+full_soft_mean_std,1670-14-0,benzenecarboximidamide;hydrochloride,C1=CC=C(C=C1)C(=N)N.Cl,0.0210810810810811,-0.013892045147441669
+full_soft_mean_std,3167-49-5,6-aminopyridine-3-carboxylic acid,C1=CC(=NC=C1C(=O)O)N,-0.0540540540540541,-0.09634712589523135
+full_soft_mean_std,62247-21-6,3-amino-3-pyridin-3-ylpropanoic acid,C1=CC(=CN=C1)C(CC(=O)O)N,0.0140540540540541,0.006671879708414055
+full_soft_mean_std,6000-44-8,sodium 2-aminoacetate,C(C(=O)[O-])N.[Na+],-0.205405405405405,-0.13833621728461834
+hybrid_mechanism_mean,98626-95-0,5-bromo-2-methylsulfonylpyridine,CS(=O)(=O)C1=NC=C(C=C1)Br,0.0316062176165803,-0.027688166892917802
+hybrid_mechanism_mean,58483-98-0,2-amino-5-bromopyridine-3-carboxamide,C1=C(C=NC(=C1C(=O)N)N)Br,0.0170984455958548,-0.0652192721455698
+hybrid_mechanism_mean,4393-16-2,(4-methylsulfonylphenyl)methanamine,CS(=O)(=O)C1=CC=C(C=C1)CN,0.0129533678756477,0.05917473897413018
+hybrid_mechanism_mean,616-79-5,2-amino-5-nitrobenzoic acid,C1=CC(=C(C=C1[N+](=O)[O-])C(=O)O)N,-0.0238341968911918,-0.11321934772740672
+hybrid_mechanism_mean,55276-43-2,1-methylsulfonylpiperazine,CS(=O)(=O)N1CCNCC1,-0.0176165803108808,-0.05916661729296071
+hybrid_mechanism_mean,17852-52-7,4-hydrazinylbenzenesulfonamide;hydrochloride,C1=CC(=CC=C1NN)S(=O)(=O)N.Cl,-0.00932642487046631,-0.05764576180252429
+hybrid_mechanism_mean,133115-72-7,[4-(trifluoromethoxy)phenyl]hydrazine;hydrochloride,C1=CC(=CC=C1NN)OC(F)(F)F.Cl,-0.077720207253886,-0.02542421669973742
+hybrid_mechanism_mean,191595-63-8,2-oxo-6-(trifluoromethyl)-1H-pyridine-3-carboxylic acid,C1=C(C(=O)NC(=C1)C(F)(F)F)C(=O)O,-0.0258848388800844,-0.07010954005529471
+hybrid_mechanism_mean,23779-96-6,8-(trifluoromethyl)-1H-quinolin-4-one,C1=CC2=C(C(=C1)C(F)(F)F)NC=CC2=O,0.00633914421553096,-0.025869365494313665
+hybrid_mechanism_mean,1980053-18-6,"8-chloro-6-(trifluoromethyl)imidazo[1,2-a]pyridine-2-carboxylic acid;hydrate",C1=C(C2=NC(=CN2C=C1C(F)(F)F)C(=O)O)Cl.O,-0.228737453777073,-0.025038650467443895
+hybrid_mechanism_mean,30825-34-4,"(2R,3S)-3-hydroxy-2-(4-methoxyphenyl)-3,5-dihydro-2H-1,5-benzothiazepin-4-one",COC1=CC=C(C=C1)[C@@H]2[C@H](C(=O)NC3=CC=CC=C3S2)O,-0.0327522451135764,-0.10851467863249126
+hybrid_mechanism_mean,6526-08-5,2-amino-5-(trifluoromethyl)benzonitrile,C1=CC(=C(C=C1C(F)(F)F)C#N)N,-0.0802958267300581,-0.019068076319284304
+hybrid_mechanism_mean,1701-18-4,2-(trifluoromethyl)-1H-quinolin-4-one,C1=CC=C2C(=C1)C(=O)C=C(N2)C(F)(F)F,-0.0147913365029055,0.0004859566843659485
+hybrid_mechanism_mean,1017789-38-6,"tert-butyl N-(4,6-dichloro-2-pyridinyl)carbamate",CC(C)(C)OC(=O)NC1=NC(=CC(=C1)Cl)Cl,0.0454305335446381,-0.033862776817947894
+hybrid_mechanism_mean,117-39-5,"2-(3,4-dihydroxyphenyl)-3,5,7-trihydroxychromen-4-one",C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,-0.597781299524564,-0.06764425688985033
+hybrid_mechanism_mean,368-90-1,[4-(trifluoromethyl)phenyl]hydrazine,C1=CC(=CC=C1C(F)(F)F)NN,-0.0443740095087163,-0.052007411864338715
+hybrid_mechanism_mean,76041-72-0,5-(trifluoromethyl)-1H-pyridine-2-thione,C1=CC(=S)NC=C1C(F)(F)F,-0.0195456946645537,0.0379795420600592
+hybrid_mechanism_mean,3251-56-7,2-methoxy-4-nitrophenol,COC1=C(C=CC(=C1)[N+](=O)[O-])O,-0.0147540983606557,-0.16027940676323446
+hybrid_mechanism_mean,745784-04-7,"3,5-difluoropyridine-2-carboxylic acid",C1=C(C=NC(=C1F)C(=O)O)F,0.0153005464480873,-0.029002723474151317
+hybrid_mechanism_mean,434-76-4,2-amino-6-fluorobenzoic acid,C1=CC(=C(C(=C1)F)C(=O)O)N,-0.00655737704918038,0.041552999110535144
+hybrid_mechanism_mean,578-22-3,5-hydroxy-2-methylbenzoic acid,CC1=C(C=C(C=C1)O)C(=O)O,0.0202185792349727,-0.08914399611939872
+hybrid_mechanism_mean,331-39-5,"(E)-3-(3,4-dihydroxyphenyl)prop-2-enoic acid",C1=CC(=C(C=C1/C=C/C(=O)O)O)O,-0.263934426229508,-0.13517172311102146
+hybrid_mechanism_mean,33630-99-8,3-amino-1H-pyridin-2-one,C1=CNC(=O)C(=C1)N,-0.155737704918033,-0.021661952458476456
+hybrid_mechanism_mean,123-03-5,1-hexadecylpyridin-1-ium chloride,CCCCCCCCCCCCCCCC[N+]1=CC=CC=C1.[Cl-],-0.00109289617486336,-0.05988930397012819
+hybrid_mechanism_mean,57-66-9,4-(dipropylsulfamoyl)benzoic acid,CCCN(CCC)S(=O)(=O)C1=CC=C(C=C1)C(=O)O,-0.00273224043715851,-0.05892359549442721
+hybrid_mechanism_mean,149-91-7,"3,4,5-trihydroxybenzoic acid",C1=C(C=C(C(=C1O)O)O)C(=O)O,-0.368306010928962,-0.24129883975054106
+hybrid_mechanism_mean,158063-66-2,4-(trifluoromethyl)pyridine-3-carboxylic acid,C1=CN=CC(=C1C(F)(F)F)C(=O)O,0.0,-0.02588567645993181
+hybrid_mechanism_mean,627-95-2,5-aminopentanoic acid;hydrochloride,C(CCN)CC(=O)O.Cl,0.0102702702702703,-0.019512880280777238
+hybrid_mechanism_mean,6705-03-9,2-amino-5-methoxybenzoic acid,COC1=CC(=C(C=C1)N)C(=O)O,-0.00486486486486486,-0.038251279829134635
+hybrid_mechanism_mean,4518-10-9,methyl 3-aminobenzoate,COC(=O)C1=CC(=CC=C1)N,0.0405405405405405,-0.0050616405331467135
+hybrid_mechanism_mean,6232-11-7,methyl 4-(aminomethyl)benzoate;hydrochloride,COC(=O)C1=CC=C(C=C1)CN.Cl,-0.0232432432432432,0.03222205004004834
+hybrid_mechanism_mean,3724-19-4,3-pyridin-3-ylpropanoic acid,C1=CC(=CN=C1)CCC(=O)O,-0.0172972972972973,0.06019018864507312
+hybrid_mechanism_mean,1670-14-0,benzenecarboximidamide;hydrochloride,C1=CC=C(C=C1)C(=N)N.Cl,0.0210810810810811,-0.042547126592485766
+hybrid_mechanism_mean,3167-49-5,6-aminopyridine-3-carboxylic acid,C1=CC(=NC=C1C(=O)O)N,-0.0540540540540541,-0.03529961812730593
+hybrid_mechanism_mean,62247-21-6,3-amino-3-pyridin-3-ylpropanoic acid,C1=CC(=CN=C1)C(CC(=O)O)N,0.0140540540540541,-0.04117916228098112
+hybrid_mechanism_mean,6000-44-8,sodium 2-aminoacetate,C(C(=O)[O-])N.[Na+],-0.205405405405405,-0.05399839969425474
+hybrid_mechanism_mean_std,98626-95-0,5-bromo-2-methylsulfonylpyridine,CS(=O)(=O)C1=NC=C(C=C1)Br,0.0316062176165803,0.01873285299302903
+hybrid_mechanism_mean_std,58483-98-0,2-amino-5-bromopyridine-3-carboxamide,C1=C(C=NC(=C1C(=O)N)N)Br,0.0170984455958548,-0.04601127310072487
+hybrid_mechanism_mean_std,4393-16-2,(4-methylsulfonylphenyl)methanamine,CS(=O)(=O)C1=CC=C(C=C1)CN,0.0129533678756477,0.05255037077285841
+hybrid_mechanism_mean_std,616-79-5,2-amino-5-nitrobenzoic acid,C1=CC(=C(C=C1[N+](=O)[O-])C(=O)O)N,-0.0238341968911918,-0.09086150316041593
+hybrid_mechanism_mean_std,55276-43-2,1-methylsulfonylpiperazine,CS(=O)(=O)N1CCNCC1,-0.0176165803108808,-0.07411479785776641
+hybrid_mechanism_mean_std,17852-52-7,4-hydrazinylbenzenesulfonamide;hydrochloride,C1=CC(=CC=C1NN)S(=O)(=O)N.Cl,-0.00932642487046631,-0.08003189325251577
+hybrid_mechanism_mean_std,133115-72-7,[4-(trifluoromethoxy)phenyl]hydrazine;hydrochloride,C1=CC(=CC=C1NN)OC(F)(F)F.Cl,-0.077720207253886,-0.04289122620665871
+hybrid_mechanism_mean_std,191595-63-8,2-oxo-6-(trifluoromethyl)-1H-pyridine-3-carboxylic acid,C1=C(C(=O)NC(=C1)C(F)(F)F)C(=O)O,-0.0258848388800844,-0.08335931431970657
+hybrid_mechanism_mean_std,23779-96-6,8-(trifluoromethyl)-1H-quinolin-4-one,C1=CC2=C(C(=C1)C(F)(F)F)NC=CC2=O,0.00633914421553096,-0.03019905211099074
+hybrid_mechanism_mean_std,1980053-18-6,"8-chloro-6-(trifluoromethyl)imidazo[1,2-a]pyridine-2-carboxylic acid;hydrate",C1=C(C2=NC(=CN2C=C1C(F)(F)F)C(=O)O)Cl.O,-0.228737453777073,-0.02803861250294853
+hybrid_mechanism_mean_std,30825-34-4,"(2R,3S)-3-hydroxy-2-(4-methoxyphenyl)-3,5-dihydro-2H-1,5-benzothiazepin-4-one",COC1=CC=C(C=C1)[C@@H]2[C@H](C(=O)NC3=CC=CC=C3S2)O,-0.0327522451135764,-0.09162524672766895
+hybrid_mechanism_mean_std,6526-08-5,2-amino-5-(trifluoromethyl)benzonitrile,C1=CC(=C(C=C1C(F)(F)F)C#N)N,-0.0802958267300581,-0.029832340044392308
+hybrid_mechanism_mean_std,1701-18-4,2-(trifluoromethyl)-1H-quinolin-4-one,C1=CC=C2C(=C1)C(=O)C=C(N2)C(F)(F)F,-0.0147913365029055,-0.022606293415911076
+hybrid_mechanism_mean_std,1017789-38-6,"tert-butyl N-(4,6-dichloro-2-pyridinyl)carbamate",CC(C)(C)OC(=O)NC1=NC(=CC(=C1)Cl)Cl,0.0454305335446381,-0.04271186823440701
+hybrid_mechanism_mean_std,117-39-5,"2-(3,4-dihydroxyphenyl)-3,5,7-trihydroxychromen-4-one",C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,-0.597781299524564,-0.07794380355662
+hybrid_mechanism_mean_std,368-90-1,[4-(trifluoromethyl)phenyl]hydrazine,C1=CC(=CC=C1C(F)(F)F)NN,-0.0443740095087163,-0.03616985277390094
+hybrid_mechanism_mean_std,76041-72-0,5-(trifluoromethyl)-1H-pyridine-2-thione,C1=CC(=S)NC=C1C(F)(F)F,-0.0195456946645537,0.03918492310787601
+hybrid_mechanism_mean_std,3251-56-7,2-methoxy-4-nitrophenol,COC1=C(C=CC(=C1)[N+](=O)[O-])O,-0.0147540983606557,-0.15502219342380041
+hybrid_mechanism_mean_std,745784-04-7,"3,5-difluoropyridine-2-carboxylic acid",C1=C(C=NC(=C1F)C(=O)O)F,0.0153005464480873,-0.025393451679259618
+hybrid_mechanism_mean_std,434-76-4,2-amino-6-fluorobenzoic acid,C1=CC(=C(C(=C1)F)C(=O)O)N,-0.00655737704918038,0.09239336642458604
+hybrid_mechanism_mean_std,578-22-3,5-hydroxy-2-methylbenzoic acid,CC1=C(C=C(C=C1)O)C(=O)O,0.0202185792349727,-0.07547645958965024
+hybrid_mechanism_mean_std,331-39-5,"(E)-3-(3,4-dihydroxyphenyl)prop-2-enoic acid",C1=CC(=C(C=C1/C=C/C(=O)O)O)O,-0.263934426229508,-0.1558516820553889
+hybrid_mechanism_mean_std,33630-99-8,3-amino-1H-pyridin-2-one,C1=CNC(=O)C(=C1)N,-0.155737704918033,-0.04408450232872748
+hybrid_mechanism_mean_std,123-03-5,1-hexadecylpyridin-1-ium chloride,CCCCCCCCCCCCCCCC[N+]1=CC=CC=C1.[Cl-],-0.00109289617486336,-0.0031652455787928233
+hybrid_mechanism_mean_std,57-66-9,4-(dipropylsulfamoyl)benzoic acid,CCCN(CCC)S(=O)(=O)C1=CC=C(C=C1)C(=O)O,-0.00273224043715851,-0.0669791686859752
+hybrid_mechanism_mean_std,149-91-7,"3,4,5-trihydroxybenzoic acid",C1=C(C=C(C(=C1O)O)O)C(=O)O,-0.368306010928962,-0.21771074697591947
+hybrid_mechanism_mean_std,158063-66-2,4-(trifluoromethyl)pyridine-3-carboxylic acid,C1=CN=CC(=C1C(F)(F)F)C(=O)O,0.0,-0.029775885665948586
+hybrid_mechanism_mean_std,627-95-2,5-aminopentanoic acid;hydrochloride,C(CCN)CC(=O)O.Cl,0.0102702702702703,-0.09416542457861848
+hybrid_mechanism_mean_std,6705-03-9,2-amino-5-methoxybenzoic acid,COC1=CC(=C(C=C1)N)C(=O)O,-0.00486486486486486,-0.06935639814937228
+hybrid_mechanism_mean_std,4518-10-9,methyl 3-aminobenzoate,COC(=O)C1=CC(=CC=C1)N,0.0405405405405405,0.025039059380853428
+hybrid_mechanism_mean_std,6232-11-7,methyl 4-(aminomethyl)benzoate;hydrochloride,COC(=O)C1=CC=C(C=C1)CN.Cl,-0.0232432432432432,0.020632598403771046
+hybrid_mechanism_mean_std,3724-19-4,3-pyridin-3-ylpropanoic acid,C1=CC(=CN=C1)CCC(=O)O,-0.0172972972972973,0.05363857700446414
+hybrid_mechanism_mean_std,1670-14-0,benzenecarboximidamide;hydrochloride,C1=CC=C(C=C1)C(=N)N.Cl,0.0210810810810811,-0.00919054780843613
+hybrid_mechanism_mean_std,3167-49-5,6-aminopyridine-3-carboxylic acid,C1=CC(=NC=C1C(=O)O)N,-0.0540540540540541,-0.08542697701165952
+hybrid_mechanism_mean_std,62247-21-6,3-amino-3-pyridin-3-ylpropanoic acid,C1=CC(=CN=C1)C(CC(=O)O)N,0.0140540540540541,-0.017639582011672338
+hybrid_mechanism_mean_std,6000-44-8,sodium 2-aminoacetate,C(C(=O)[O-])N.[Na+],-0.205405405405405,-0.05788492495609959
+hybrid_full_mean,98626-95-0,5-bromo-2-methylsulfonylpyridine,CS(=O)(=O)C1=NC=C(C=C1)Br,0.0316062176165803,-0.01821915446984032
+hybrid_full_mean,58483-98-0,2-amino-5-bromopyridine-3-carboxamide,C1=C(C=NC(=C1C(=O)N)N)Br,0.0170984455958548,-0.06504405456312878
+hybrid_full_mean,4393-16-2,(4-methylsulfonylphenyl)methanamine,CS(=O)(=O)C1=CC=C(C=C1)CN,0.0129533678756477,0.048172214897489636
+hybrid_full_mean,616-79-5,2-amino-5-nitrobenzoic acid,C1=CC(=C(C=C1[N+](=O)[O-])C(=O)O)N,-0.0238341968911918,-0.11047933921771494
+hybrid_full_mean,55276-43-2,1-methylsulfonylpiperazine,CS(=O)(=O)N1CCNCC1,-0.0176165803108808,-0.057905119241660745
+hybrid_full_mean,17852-52-7,4-hydrazinylbenzenesulfonamide;hydrochloride,C1=CC(=CC=C1NN)S(=O)(=O)N.Cl,-0.00932642487046631,-0.05624254488535978
+hybrid_full_mean,133115-72-7,[4-(trifluoromethoxy)phenyl]hydrazine;hydrochloride,C1=CC(=CC=C1NN)OC(F)(F)F.Cl,-0.077720207253886,-0.028624033809225298
+hybrid_full_mean,191595-63-8,2-oxo-6-(trifluoromethyl)-1H-pyridine-3-carboxylic acid,C1=C(C(=O)NC(=C1)C(F)(F)F)C(=O)O,-0.0258848388800844,-0.10034400750846703
+hybrid_full_mean,23779-96-6,8-(trifluoromethyl)-1H-quinolin-4-one,C1=CC2=C(C(=C1)C(F)(F)F)NC=CC2=O,0.00633914421553096,-0.02398093273892543
+hybrid_full_mean,1980053-18-6,"8-chloro-6-(trifluoromethyl)imidazo[1,2-a]pyridine-2-carboxylic acid;hydrate",C1=C(C2=NC(=CN2C=C1C(F)(F)F)C(=O)O)Cl.O,-0.228737453777073,-0.025931021271773217
+hybrid_full_mean,30825-34-4,"(2R,3S)-3-hydroxy-2-(4-methoxyphenyl)-3,5-dihydro-2H-1,5-benzothiazepin-4-one",COC1=CC=C(C=C1)[C@@H]2[C@H](C(=O)NC3=CC=CC=C3S2)O,-0.0327522451135764,-0.09944631227963874
+hybrid_full_mean,6526-08-5,2-amino-5-(trifluoromethyl)benzonitrile,C1=CC(=C(C=C1C(F)(F)F)C#N)N,-0.0802958267300581,-0.024894630394474232
+hybrid_full_mean,1701-18-4,2-(trifluoromethyl)-1H-quinolin-4-one,C1=CC=C2C(=C1)C(=O)C=C(N2)C(F)(F)F,-0.0147913365029055,0.0045537476261881885
+hybrid_full_mean,1017789-38-6,"tert-butyl N-(4,6-dichloro-2-pyridinyl)carbamate",CC(C)(C)OC(=O)NC1=NC(=CC(=C1)Cl)Cl,0.0454305335446381,-0.030178446584149036
+hybrid_full_mean,117-39-5,"2-(3,4-dihydroxyphenyl)-3,5,7-trihydroxychromen-4-one",C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,-0.597781299524564,-0.06818064137086503
+hybrid_full_mean,368-90-1,[4-(trifluoromethyl)phenyl]hydrazine,C1=CC(=CC=C1C(F)(F)F)NN,-0.0443740095087163,-0.053556767893887684
+hybrid_full_mean,76041-72-0,5-(trifluoromethyl)-1H-pyridine-2-thione,C1=CC(=S)NC=C1C(F)(F)F,-0.0195456946645537,0.030306945377873498
+hybrid_full_mean,3251-56-7,2-methoxy-4-nitrophenol,COC1=C(C=CC(=C1)[N+](=O)[O-])O,-0.0147540983606557,-0.15503637871094564
+hybrid_full_mean,745784-04-7,"3,5-difluoropyridine-2-carboxylic acid",C1=C(C=NC(=C1F)C(=O)O)F,0.0153005464480873,-0.027445921467028025
+hybrid_full_mean,434-76-4,2-amino-6-fluorobenzoic acid,C1=CC(=C(C(=C1)F)C(=O)O)N,-0.00655737704918038,0.051838500382013306
+hybrid_full_mean,578-22-3,5-hydroxy-2-methylbenzoic acid,CC1=C(C=C(C=C1)O)C(=O)O,0.0202185792349727,-0.08700475574550728
+hybrid_full_mean,331-39-5,"(E)-3-(3,4-dihydroxyphenyl)prop-2-enoic acid",C1=CC(=C(C=C1/C=C/C(=O)O)O)O,-0.263934426229508,-0.12407565682384784
+hybrid_full_mean,33630-99-8,3-amino-1H-pyridin-2-one,C1=CNC(=O)C(=C1)N,-0.155737704918033,-0.026676831592126755
+hybrid_full_mean,123-03-5,1-hexadecylpyridin-1-ium chloride,CCCCCCCCCCCCCCCC[N+]1=CC=CC=C1.[Cl-],-0.00109289617486336,-0.058790406796610815
+hybrid_full_mean,57-66-9,4-(dipropylsulfamoyl)benzoic acid,CCCN(CCC)S(=O)(=O)C1=CC=C(C=C1)C(=O)O,-0.00273224043715851,-0.0482006433490456
+hybrid_full_mean,149-91-7,"3,4,5-trihydroxybenzoic acid",C1=C(C=C(C(=C1O)O)O)C(=O)O,-0.368306010928962,-0.22977246342117416
+hybrid_full_mean,158063-66-2,4-(trifluoromethyl)pyridine-3-carboxylic acid,C1=CN=CC(=C1C(F)(F)F)C(=O)O,0.0,-0.021155736058479
+hybrid_full_mean,627-95-2,5-aminopentanoic acid;hydrochloride,C(CCN)CC(=O)O.Cl,0.0102702702702703,-0.035321949471830344
+hybrid_full_mean,6705-03-9,2-amino-5-methoxybenzoic acid,COC1=CC(=C(C=C1)N)C(=O)O,-0.00486486486486486,-0.04941478188575607
+hybrid_full_mean,4518-10-9,methyl 3-aminobenzoate,COC(=O)C1=CC(=CC=C1)N,0.0405405405405405,-0.0056571028560009895
+hybrid_full_mean,6232-11-7,methyl 4-(aminomethyl)benzoate;hydrochloride,COC(=O)C1=CC=C(C=C1)CN.Cl,-0.0232432432432432,0.03156356234896372
+hybrid_full_mean,3724-19-4,3-pyridin-3-ylpropanoic acid,C1=CC(=CN=C1)CCC(=O)O,-0.0172972972972973,0.05597362577172823
+hybrid_full_mean,1670-14-0,benzenecarboximidamide;hydrochloride,C1=CC=C(C=C1)C(=N)N.Cl,0.0210810810810811,-0.039097063468088084
+hybrid_full_mean,3167-49-5,6-aminopyridine-3-carboxylic acid,C1=CC(=NC=C1C(=O)O)N,-0.0540540540540541,-0.03752138454469031
+hybrid_full_mean,62247-21-6,3-amino-3-pyridin-3-ylpropanoic acid,C1=CC(=CN=C1)C(CC(=O)O)N,0.0140540540540541,-0.03370466738357138
+hybrid_full_mean,6000-44-8,sodium 2-aminoacetate,C(C(=O)[O-])N.[Na+],-0.205405405405405,-0.0491991163545292
+hybrid_full_mean_std,98626-95-0,5-bromo-2-methylsulfonylpyridine,CS(=O)(=O)C1=NC=C(C=C1)Br,0.0316062176165803,0.01615705923506297
+hybrid_full_mean_std,58483-98-0,2-amino-5-bromopyridine-3-carboxamide,C1=C(C=NC(=C1C(=O)N)N)Br,0.0170984455958548,-0.04319651969797758
+hybrid_full_mean_std,4393-16-2,(4-methylsulfonylphenyl)methanamine,CS(=O)(=O)C1=CC=C(C=C1)CN,0.0129533678756477,0.04961183812097628
+hybrid_full_mean_std,616-79-5,2-amino-5-nitrobenzoic acid,C1=CC(=C(C=C1[N+](=O)[O-])C(=O)O)N,-0.0238341968911918,-0.09091703341763227
+hybrid_full_mean_std,55276-43-2,1-methylsulfonylpiperazine,CS(=O)(=O)N1CCNCC1,-0.0176165803108808,-0.07146304161369552
+hybrid_full_mean_std,17852-52-7,4-hydrazinylbenzenesulfonamide;hydrochloride,C1=CC(=CC=C1NN)S(=O)(=O)N.Cl,-0.00932642487046631,-0.09406624200017213
+hybrid_full_mean_std,133115-72-7,[4-(trifluoromethoxy)phenyl]hydrazine;hydrochloride,C1=CC(=CC=C1NN)OC(F)(F)F.Cl,-0.077720207253886,-0.04300715135417982
+hybrid_full_mean_std,191595-63-8,2-oxo-6-(trifluoromethyl)-1H-pyridine-3-carboxylic acid,C1=C(C(=O)NC(=C1)C(F)(F)F)C(=O)O,-0.0258848388800844,-0.10107549489727052
+hybrid_full_mean_std,23779-96-6,8-(trifluoromethyl)-1H-quinolin-4-one,C1=CC2=C(C(=C1)C(F)(F)F)NC=CC2=O,0.00633914421553096,-0.025398614594508997
+hybrid_full_mean_std,1980053-18-6,"8-chloro-6-(trifluoromethyl)imidazo[1,2-a]pyridine-2-carboxylic acid;hydrate",C1=C(C2=NC(=CN2C=C1C(F)(F)F)C(=O)O)Cl.O,-0.228737453777073,-0.028272129778935264
+hybrid_full_mean_std,30825-34-4,"(2R,3S)-3-hydroxy-2-(4-methoxyphenyl)-3,5-dihydro-2H-1,5-benzothiazepin-4-one",COC1=CC=C(C=C1)[C@@H]2[C@H](C(=O)NC3=CC=CC=C3S2)O,-0.0327522451135764,-0.08196454237052697
+hybrid_full_mean_std,6526-08-5,2-amino-5-(trifluoromethyl)benzonitrile,C1=CC(=C(C=C1C(F)(F)F)C#N)N,-0.0802958267300581,-0.03910945268434032
+hybrid_full_mean_std,1701-18-4,2-(trifluoromethyl)-1H-quinolin-4-one,C1=CC=C2C(=C1)C(=O)C=C(N2)C(F)(F)F,-0.0147913365029055,-0.024580830270045075
+hybrid_full_mean_std,1017789-38-6,"tert-butyl N-(4,6-dichloro-2-pyridinyl)carbamate",CC(C)(C)OC(=O)NC1=NC(=CC(=C1)Cl)Cl,0.0454305335446381,-0.04827024635909091
+hybrid_full_mean_std,117-39-5,"2-(3,4-dihydroxyphenyl)-3,5,7-trihydroxychromen-4-one",C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,-0.597781299524564,-0.08054117118161369
+hybrid_full_mean_std,368-90-1,[4-(trifluoromethyl)phenyl]hydrazine,C1=CC(=CC=C1C(F)(F)F)NN,-0.0443740095087163,-0.0342566567705647
+hybrid_full_mean_std,76041-72-0,5-(trifluoromethyl)-1H-pyridine-2-thione,C1=CC(=S)NC=C1C(F)(F)F,-0.0195456946645537,0.03101220365560292
+hybrid_full_mean_std,3251-56-7,2-methoxy-4-nitrophenol,COC1=C(C=CC(=C1)[N+](=O)[O-])O,-0.0147540983606557,-0.14134694496547945
+hybrid_full_mean_std,745784-04-7,"3,5-difluoropyridine-2-carboxylic acid",C1=C(C=NC(=C1F)C(=O)O)F,0.0153005464480873,-0.023415754664010892
+hybrid_full_mean_std,434-76-4,2-amino-6-fluorobenzoic acid,C1=CC(=C(C(=C1)F)C(=O)O)N,-0.00655737704918038,0.08726971321183566
+hybrid_full_mean_std,578-22-3,5-hydroxy-2-methylbenzoic acid,CC1=C(C=C(C=C1)O)C(=O)O,0.0202185792349727,-0.07302886799062061
+hybrid_full_mean_std,331-39-5,"(E)-3-(3,4-dihydroxyphenyl)prop-2-enoic acid",C1=CC(=C(C=C1/C=C/C(=O)O)O)O,-0.263934426229508,-0.14720117627619897
+hybrid_full_mean_std,33630-99-8,3-amino-1H-pyridin-2-one,C1=CNC(=O)C(=C1)N,-0.155737704918033,-0.04187185761141066
+hybrid_full_mean_std,123-03-5,1-hexadecylpyridin-1-ium chloride,CCCCCCCCCCCCCCCC[N+]1=CC=CC=C1.[Cl-],-0.00109289617486336,-0.017308283279381755
+hybrid_full_mean_std,57-66-9,4-(dipropylsulfamoyl)benzoic acid,CCCN(CCC)S(=O)(=O)C1=CC=C(C=C1)C(=O)O,-0.00273224043715851,-0.05105323126959353
+hybrid_full_mean_std,149-91-7,"3,4,5-trihydroxybenzoic acid",C1=C(C=C(C(=C1O)O)O)C(=O)O,-0.368306010928962,-0.19173752712711128
+hybrid_full_mean_std,158063-66-2,4-(trifluoromethyl)pyridine-3-carboxylic acid,C1=CN=CC(=C1C(F)(F)F)C(=O)O,0.0,-0.025091986044347196
+hybrid_full_mean_std,627-95-2,5-aminopentanoic acid;hydrochloride,C(CCN)CC(=O)O.Cl,0.0102702702702703,-0.10136721171293223
+hybrid_full_mean_std,6705-03-9,2-amino-5-methoxybenzoic acid,COC1=CC(=C(C=C1)N)C(=O)O,-0.00486486486486486,-0.09056700999108204
+hybrid_full_mean_std,4518-10-9,methyl 3-aminobenzoate,COC(=O)C1=CC(=CC=C1)N,0.0405405405405405,0.028938170284539565
+hybrid_full_mean_std,6232-11-7,methyl 4-(aminomethyl)benzoate;hydrochloride,COC(=O)C1=CC=C(C=C1)CN.Cl,-0.0232432432432432,0.017580245012939602
+hybrid_full_mean_std,3724-19-4,3-pyridin-3-ylpropanoic acid,C1=CC(=CN=C1)CCC(=O)O,-0.0172972972972973,0.04777197963735936
+hybrid_full_mean_std,1670-14-0,benzenecarboximidamide;hydrochloride,C1=CC=C(C=C1)C(=N)N.Cl,0.0210810810810811,-0.01152793469250294
+hybrid_full_mean_std,3167-49-5,6-aminopyridine-3-carboxylic acid,C1=CC(=NC=C1C(=O)O)N,-0.0540540540540541,-0.08994682153463543
+hybrid_full_mean_std,62247-21-6,3-amino-3-pyridin-3-ylpropanoic acid,C1=CC(=CN=C1)C(CC(=O)O)N,0.0140540540540541,-0.007425150680969855
+hybrid_full_mean_std,6000-44-8,sodium 2-aminoacetate,C(C(=O)[O-])N.[Na+],-0.205405405405405,-0.06024819547586668

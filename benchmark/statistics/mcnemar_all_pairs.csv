@@ -1,0 +1,16 @@
+﻿model_a,model_b,n_paired_questions,both_correct,a_correct_b_wrong,a_wrong_b_correct,both_wrong,p_value,significant_p_lt_0_05
+Perovskite-RL,llama-3.3-70b-instruct,32,8,17,1,6,0.00014495849609375,1
+Perovskite-RL,Qwen3-32B,32,10,15,2,5,0.002349853515625,1
+DeepSeek-V3.2,Perovskite-RL,32,14,1,11,6,0.00634765625,1
+GPT-5,Perovskite-RL,32,12,2,13,5,0.00738525390625,1
+Perovskite-RL,gemini-3-flash,32,13,12,3,4,0.03515625,1
+gemini-3-flash,llama-3.3-70b-instruct,32,6,10,3,13,0.09228515625,0
+DeepSeek-V3.2,llama-3.3-70b-instruct,32,5,10,4,13,0.1795654296875,0
+GPT-5,llama-3.3-70b-instruct,32,5,9,4,14,0.266845703125,0
+Qwen3-32B,gemini-3-flash,32,8,4,8,12,0.3876953125,0
+Qwen3-32B,llama-3.3-70b-instruct,32,6,6,3,17,0.5078125,0
+DeepSeek-V3.2,Qwen3-32B,32,7,8,5,12,0.5810546875,0
+GPT-5,Qwen3-32B,32,7,7,5,13,0.7744140625,0
+GPT-5,gemini-3-flash,32,5,9,11,7,0.8238029479980469,0
+DeepSeek-V3.2,GPT-5,32,9,6,5,12,1.0,0
+DeepSeek-V3.2,gemini-3-flash,32,8,7,8,9,1.0,0

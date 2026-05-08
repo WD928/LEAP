@@ -1,0 +1,22 @@
+top_fraction,top_fraction_percent,k,model,pred_col,n_overlap,overlap_fraction,overlap_indices
+0.1,10.0,4,Hard,pred_hard_only,0,0.0,
+0.1,10.0,4,Hybrid + Qwen3-32B backbone,pred_hybrid_full_mean_std_qwen3_32b,1,0.25,0
+0.1,10.0,4,Hybrid + Perovskite-RL,pred_hybrid_full_mean_std_perovskite_rl,1,0.25,0
+0.15,15.0,6,Hard,pred_hard_only,1,0.16666666666666666,0
+0.15,15.0,6,Hybrid + Qwen3-32B backbone,pred_hybrid_full_mean_std_qwen3_32b,1,0.16666666666666666,0
+0.15,15.0,6,Hybrid + Perovskite-RL,pred_hybrid_full_mean_std_perovskite_rl,1,0.16666666666666666,0
+0.2,20.0,8,Hard,pred_hard_only,3,0.375,0;13;18
+0.2,20.0,8,Hybrid + Qwen3-32B backbone,pred_hybrid_full_mean_std_qwen3_32b,2,0.25,0;18
+0.2,20.0,8,Hybrid + Perovskite-RL,pred_hybrid_full_mean_std_perovskite_rl,2,0.25,0;29
+0.25,25.0,9,Hard,pred_hard_only,4,0.4444444444444444,0;2;13;18
+0.25,25.0,9,Hybrid + Qwen3-32B backbone,pred_hybrid_full_mean_std_qwen3_32b,3,0.3333333333333333,0;2;18
+0.25,25.0,9,Hybrid + Perovskite-RL,pred_hybrid_full_mean_std_perovskite_rl,3,0.3333333333333333,0;2;29
+0.3,30.0,11,Hard,pred_hard_only,4,0.36363636363636365,0;2;13;18
+0.3,30.0,11,Hybrid + Qwen3-32B backbone,pred_hybrid_full_mean_std_qwen3_32b,3,0.2727272727272727,0;2;18
+0.3,30.0,11,Hybrid + Perovskite-RL,pred_hybrid_full_mean_std_perovskite_rl,5,0.45454545454545453,0;2;18;29;32
+0.4,40.0,15,Hard,pred_hard_only,8,0.5333333333333333,0;2;13;18;23;24;26;29
+0.4,40.0,15,Hybrid + Qwen3-32B backbone,pred_hybrid_full_mean_std_qwen3_32b,10,0.6666666666666666,0;1;2;13;18;23;24;26;28;32
+0.4,40.0,15,Hybrid + Perovskite-RL,pred_hybrid_full_mean_std_perovskite_rl,10,0.6666666666666666,0;2;8;13;18;23;24;26;29;32
+0.5,50.0,18,Hard,pred_hard_only,11,0.6111111111111112,0;2;8;13;18;19;23;24;26;27;29
+0.5,50.0,18,Hybrid + Qwen3-32B backbone,pred_hybrid_full_mean_std_qwen3_32b,13,0.7222222222222222,0;1;2;13;17;18;19;23;24;26;28;29;32
+0.5,50.0,18,Hybrid + Perovskite-RL,pred_hybrid_full_mean_std_perovskite_rl,13,0.7222222222222222,0;1;2;8;13;18;19;23;24;26;29;32;34

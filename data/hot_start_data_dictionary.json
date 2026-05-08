@@ -1,0 +1,275 @@
+{
+  "n_additives": 36,
+  "control_definition": "PCE_Control is the matched control device PCE used for the relative PCE change.",
+  "target_definition": "delta = (PCE_Exp - PCE_Control) / PCE_Control.",
+  "soft_descriptor_sampling": {
+    "n": 10,
+    "temperature": 0.7
+  },
+  "columns": [
+    {
+      "column": "cas",
+      "description": "Molecule identifier."
+    },
+    {
+      "column": "name_zh",
+      "description": "Molecule identifier."
+    },
+    {
+      "column": "name_en",
+      "description": "Molecule identifier."
+    },
+    {
+      "column": "PCE_Control",
+      "description": "Measured device PCE for the control or additive condition."
+    },
+    {
+      "column": "PCE_Exp",
+      "description": "Measured device PCE for the control or additive condition."
+    },
+    {
+      "column": "delta",
+      "description": "Relative PCE change, computed as (PCE_Exp - PCE_Control) / PCE_Control."
+    },
+    {
+      "column": "SMILES",
+      "description": "Molecule identifier."
+    },
+    {
+      "column": "Status",
+      "description": "Hard molecular descriptor or metadata."
+    },
+    {
+      "column": "MolecularWeight",
+      "description": "Hard molecular descriptor or metadata."
+    },
+    {
+      "column": "LogP",
+      "description": "Hard molecular descriptor or metadata."
+    },
+    {
+      "column": "TPSA",
+      "description": "Hard molecular descriptor or metadata."
+    },
+    {
+      "column": "RotatableBonds",
+      "description": "Hard molecular descriptor or metadata."
+    },
+    {
+      "column": "H_Donors",
+      "description": "Hard molecular descriptor or metadata."
+    },
+    {
+      "column": "H_Acceptors",
+      "description": "Hard molecular descriptor or metadata."
+    },
+    {
+      "column": "FormalCharge",
+      "description": "Hard molecular descriptor or metadata."
+    },
+    {
+      "column": "HeavyAtomCount",
+      "description": "Hard molecular descriptor or metadata."
+    },
+    {
+      "column": "Count_NH2",
+      "description": "Hard molecular descriptor: functional-group count."
+    },
+    {
+      "column": "Count_Cyano",
+      "description": "Hard molecular descriptor: functional-group count."
+    },
+    {
+      "column": "Count_P_O",
+      "description": "Hard molecular descriptor: functional-group count."
+    },
+    {
+      "column": "Count_S_O",
+      "description": "Hard molecular descriptor: functional-group count."
+    },
+    {
+      "column": "Count_C_O",
+      "description": "Hard molecular descriptor: functional-group count."
+    },
+    {
+      "column": "Count_Carboxyl_Acid",
+      "description": "Hard molecular descriptor: functional-group count."
+    },
+    {
+      "column": "Count_Ester",
+      "description": "Hard molecular descriptor: functional-group count."
+    },
+    {
+      "column": "Count_Amide",
+      "description": "Hard molecular descriptor: functional-group count."
+    },
+    {
+      "column": "Count_Urea",
+      "description": "Hard molecular descriptor: functional-group count."
+    },
+    {
+      "column": "Count_Thiourea",
+      "description": "Hard molecular descriptor: functional-group count."
+    },
+    {
+      "column": "Count_Hydrazide",
+      "description": "Hard molecular descriptor: functional-group count."
+    },
+    {
+      "column": "Count_NH1",
+      "description": "Hard molecular descriptor: functional-group count."
+    },
+    {
+      "column": "Count_Quaternary_N",
+      "description": "Hard molecular descriptor: functional-group count."
+    },
+    {
+      "column": "Count_Imine",
+      "description": "Hard molecular descriptor: functional-group count."
+    },
+    {
+      "column": "Count_Pyridine",
+      "description": "Hard molecular descriptor: functional-group count."
+    },
+    {
+      "column": "Count_Imidazole",
+      "description": "Hard molecular descriptor: functional-group count."
+    },
+    {
+      "column": "Count_Triazole",
+      "description": "Hard molecular descriptor: functional-group count."
+    },
+    {
+      "column": "Count_Pyrrole",
+      "description": "Hard molecular descriptor: functional-group count."
+    },
+    {
+      "column": "Count_Indole",
+      "description": "Hard molecular descriptor: functional-group count."
+    },
+    {
+      "column": "Count_Thiophene",
+      "description": "Hard molecular descriptor: functional-group count."
+    },
+    {
+      "column": "Count_Hydroxyl",
+      "description": "Hard molecular descriptor: functional-group count."
+    },
+    {
+      "column": "Count_Ether",
+      "description": "Hard molecular descriptor: functional-group count."
+    },
+    {
+      "column": "Count_COO",
+      "description": "Hard molecular descriptor: functional-group count."
+    },
+    {
+      "column": "Count_SH",
+      "description": "Hard molecular descriptor: functional-group count."
+    },
+    {
+      "column": "Count_Thioether",
+      "description": "Hard molecular descriptor: functional-group count."
+    },
+    {
+      "column": "Count_Benzene",
+      "description": "Hard molecular descriptor: functional-group count."
+    },
+    {
+      "column": "Count_Naphthalene",
+      "description": "Hard molecular descriptor: functional-group count."
+    },
+    {
+      "column": "Count_Alkyne",
+      "description": "Hard molecular descriptor: functional-group count."
+    },
+    {
+      "column": "Count_F",
+      "description": "Hard molecular descriptor: functional-group count."
+    },
+    {
+      "column": "Count_CF3",
+      "description": "Hard molecular descriptor: functional-group count."
+    },
+    {
+      "column": "Count_Si",
+      "description": "Hard molecular descriptor: functional-group count."
+    },
+    {
+      "column": "Count_Sulfonic_Acid",
+      "description": "Hard molecular descriptor: functional-group count."
+    },
+    {
+      "column": "Count_Nitro",
+      "description": "Hard molecular descriptor: functional-group count."
+    },
+    {
+      "column": "group_key",
+      "description": "Hard molecular descriptor or metadata."
+    },
+    {
+      "column": "mol_idx",
+      "description": "Hard molecular descriptor or metadata."
+    },
+    {
+      "column": "n_total",
+      "description": "Soft descriptor generation quality-control statistic."
+    },
+    {
+      "column": "n_valid",
+      "description": "Soft descriptor generation quality-control statistic."
+    },
+    {
+      "column": "valid_fraction",
+      "description": "Soft descriptor generation quality-control statistic."
+    },
+    {
+      "column": "Mean_binding_mode",
+      "description": "Mean soft mechanistic descriptor across repeated model outputs."
+    },
+    {
+      "column": "Std_binding_mode",
+      "description": "Standard deviation of the soft mechanistic descriptor across repeated model outputs."
+    },
+    {
+      "column": "Mean_interfacial_shielding",
+      "description": "Mean soft mechanistic descriptor across repeated model outputs."
+    },
+    {
+      "column": "Std_interfacial_shielding",
+      "description": "Standard deviation of the soft mechanistic descriptor across repeated model outputs."
+    },
+    {
+      "column": "Mean_hydrophobic_protection",
+      "description": "Mean soft mechanistic descriptor across repeated model outputs."
+    },
+    {
+      "column": "Std_hydrophobic_protection",
+      "description": "Standard deviation of the soft mechanistic descriptor across repeated model outputs."
+    },
+    {
+      "column": "Mean_ion_interaction",
+      "description": "Mean soft mechanistic descriptor across repeated model outputs."
+    },
+    {
+      "column": "Std_ion_interaction",
+      "description": "Standard deviation of the soft mechanistic descriptor across repeated model outputs."
+    },
+    {
+      "column": "Mean_electronic_modulation",
+      "description": "Mean soft mechanistic descriptor across repeated model outputs."
+    },
+    {
+      "column": "Std_electronic_modulation",
+      "description": "Standard deviation of the soft mechanistic descriptor across repeated model outputs."
+    },
+    {
+      "column": "Mean_predicted_effect",
+      "description": "Mean soft mechanistic descriptor across repeated model outputs."
+    },
+    {
+      "column": "Std_predicted_effect",
+      "description": "Standard deviation of the soft mechanistic descriptor across repeated model outputs."
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+﻿model_a,model_b,n_paired_questions,both_correct,a_correct_b_wrong,a_wrong_b_correct,both_wrong,p_value,significant_p_lt_0_05
+Perovskite-RL,llama-3.3-70b-instruct,32,8,17,1,6,0.00014495849609375,1
+Perovskite-RL,Qwen3-32B,32,10,15,2,5,0.002349853515625,1
+Perovskite-RL,DeepSeek-V3.2,32,14,11,1,6,0.00634765625,1
+Perovskite-RL,GPT-5,32,12,13,2,5,0.00738525390625,1
+Perovskite-RL,gemini-3-flash,32,13,12,3,4,0.03515625,1

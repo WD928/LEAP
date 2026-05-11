@@ -1,5 +1,5 @@
 {
-  "n_files": 29,
+  "n_files": 34,
   "files": [
     {
       "path": ".gitignore",
@@ -7,11 +7,11 @@
     },
     {
       "path": "README.md",
-      "bytes": 1738
+      "bytes": 2092
     },
     {
       "path": "ablation/README.md",
-      "bytes": 248
+      "bytes": 341
     },
     {
       "path": "ablation/decision_policy/policy_ablation_random_baseline.csv",
@@ -38,6 +38,14 @@
       "bytes": 1996
     },
     {
+      "path": "ablation/representation/figure3_bootstrap_ci_long.csv",
+      "bytes": 1333
+    },
+    {
+      "path": "ablation/representation/figure3_bootstrap_ci_table.csv",
+      "bytes": 979
+    },
+    {
       "path": "ablation/representation/representation_ablation_predictions.csv",
       "bytes": 44621
     },
@@ -47,7 +55,7 @@
     },
     {
       "path": "benchmark/README.md",
-      "bytes": 337
+      "bytes": 452
     },
     {
       "path": "benchmark/benchmark_sources.csv",
@@ -94,8 +102,20 @@
       "bytes": 420
     },
     {
+      "path": "benchmark/statistics/mcnemar_vs_reference_holm.csv",
+      "bytes": 531
+    },
+    {
       "path": "benchmark/statistics/model_summary_with_ci.csv",
       "bytes": 759
+    },
+    {
+      "path": "candidate_selection/README.md",
+      "bytes": 254
+    },
+    {
+      "path": "candidate_selection/top50_validation_shortlists_mechanism_scores.csv",
+      "bytes": 16091
     },
     {
       "path": "data/README.md",

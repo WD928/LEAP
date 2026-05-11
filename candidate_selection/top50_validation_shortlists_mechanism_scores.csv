@@ -1,0 +1,151 @@
+round,top50_rank,name_en,cas,SMILES,binding_mode_score,interfacial_shielding_score,hydrophobic_protection_score,ion_interaction_score,electronic_modulation_score,predicted_effect_score
+1,1,"1-Dodecanone, 1-phenyl-",1674-38-0,CCCCCCCCCCCC(=O)C1=CC=CC=C1,0.7,0.5,1.0,0.0,0.0,-0.1
+1,2,"1(2H)-Naphthalenone, 6,7-difluoro-3,4-dihydro-",137114-68-2,C1CC2=CC(=C(C=C2C(=O)C1)F)F,0.3,0.2,1.0,0.0,0.0,-0.1
+1,3,"3,5-Dimethylbenzaldehyde",5779-95-3,CC1=CC(=CC(=C1)C=O)C,0.6,0.0,0.9,0.0,0.1,-0.1
+1,4,3-Bromo-6-chloro-2-fluorobenzaldehyde,886615-30-1,C1=CC(=C(C(=C1Cl)C=O)F)Br,0.5,0.0,0.8,0.0,0.2,-0.2
+1,5,"Acridine,9-(2-chlorophenyl)-",36762-16-0,C1=CC=C2C(=C1)C(=C3C=CC=CC3=N2)C4=CC=CC=C4Cl,0.5,0.6,1.0,0.0,0.4,0.1
+1,6,6-Bromo-4-chloro-2-methylquinoline,53364-85-5,CC1=CC(=C2C=C(C=CC2=N1)Br)Cl,0.7,0.5,1.0,0.0,0.7,0.3
+1,7,N-Methylbenzanilide,1934-92-5,CN(C1=CC=CC=C1)C(=O)C2=CC=CC=C2,0.9,0.2,1.0,0.0,0.2,0.2
+1,8,"1H-Inden-1-one, 5-bromo-2,3-dihydro-6-methyl-",1273655-83-6,CC1=CC2=C(CCC2=O)C=C1Br,0.3,0.1,1.0,0.0,0.1,-0.1
+1,9,"Pyridine, 2,4,6-tris(1,1-dimethylethyl)-",20336-15-6,CC(C)(C)C1=CC(=NC(=C1)C(C)(C)C)C(C)(C)C,0.2,0.3,0.9,0.0,0.1,-0.5
+1,10,8-Bromo-4-chloroquinoline,65340-71-8,C1=CC2=C(C=CN=C2C(=C1)Br)Cl,0.8,0.5,1.0,0.0,0.6,0.3
+1,11,"3,5-Diphenylpyridine",92-07-9,C1=CC=C(C=C1)C2=CC(=CN=C2)C3=CC=CC=C3,0.6,0.6,1.0,0.0,0.8,0.5
+1,12,1-Chloroisoquinoline,19493-44-8,C1=CC=C2C(=C1)C=CN=C2Cl,1.0,0.1,1.0,0.0,0.5,0.6
+1,13,2-(4-tert-Butylphenyl)pyridine,524713-66-4,CC(C)(C)C1=CC=C(C=C1)C2=CC=CC=N2,0.8,0.6,1.0,0.0,0.5,0.6
+1,14,"4,7-Dichloro-2,8-dimethylquinoline",21728-15-4,CC1=CC(=C2C=CC(=C(C2=N1)C)Cl)Cl,0.8,0.5,0.9,0.0,0.6,0.5
+1,15,6-Phenylquinoline,612-95-3,C1=CC=C(C=C1)C2=CC3=C(C=C2)N=CC=C3,1.0,0.4,1.0,0.0,0.7,0.5
+1,16,"Benzaldehyde, 4-bromo-3-fluoro-",133059-43-5,C1=CC(=C(C=C1C=O)F)Br,0.6,0.0,1.0,0.0,0.2,0.1
+1,17,4-BROMO-2-FLUOROBENZALDEHYDE,57848-46-1,C1=CC(=C(C=C1Br)F)C=O,0.4,0.0,0.8,0.0,0.4,0.0
+1,18,"1,2-Benzanthraquinone",2498-66-0,C1=CC=C2C(=C1)C=CC3=C2C(=O)C4=CC=CC=C4C3=O,0.3,0.3,1.0,0.0,0.7,0.0
+1,19,2-Fluoro-6-methylbenzaldehyde,117752-04-2,CC1=C(C(=CC=C1)F)C=O,0.5,0.0,0.7,0.0,0.3,0.0
+1,20,"1H-Inden-1-one, 4,7-difluoro-2,3-dihydro-",130408-16-1,C1CC(=O)C2=C(C=CC(=C21)F)F,0.5,0.0,0.6,0.0,0.1,-0.1
+1,21,"QUINOLINE, 4-CHLORO-2-METHYL-8-(TRIFLUOROMETHYL)-",140908-89-0,CC1=CC(=C2C=CC=C(C2=N1)C(F)(F)F)Cl,0.5,0.4,1.0,0.0,0.4,0.1
+1,22,"4,5-Dichloro-2-methylquinoline",63010-74-2,CC1=CC(=C2C(=N1)C=CC=C2Cl)Cl,0.9,0.3,1.0,0.0,0.8,0.4
+1,23,"4-TERT-BUTYL-2,6-DICHLOROPYRIDINE",1350449-23-8,CC(C)(C)C1=CC(=NC(=C1)Cl)Cl,0.2,0.2,1.0,0.0,0.0,0.0
+1,24,"[1,1'-Biphenyl]-3,3'-dicarboxaldehyde",19800-47-6,C1=CC(=CC(=C1)C2=CC=CC(=C2)C=O)C=O,0.6,0.1,0.9,0.0,0.5,0.1
+1,25,"N-Boc-4,6-dichloropyridin-2-amine",1017789-38-6,CC(C)(C)OC(=O)NC1=NC(=CC(=C1)Cl)Cl,0.8,0.4,1.0,0.9,0.0,0.4
+1,26,2-Phenyl-6-bromoquinoline,3894-25-5,C1=CC=C(C=C1)C2=NC3=C(C=C2)C=C(C=C3)Br,0.7,0.3,1.0,0.0,0.3,0.3
+1,27,7-Bromo-2-phenylquinoline,1203578-65-7,C1=CC=C(C=C1)C2=NC3=C(C=CC(=C3)Br)C=C2,0.8,0.6,1.0,0.0,0.4,0.3
+1,28,4-Chloro-6-(trifluoromethyl)quinoline,49713-56-6,C1=CC2=NC=CC(=C2C=C1C(F)(F)F)Cl,0.5,0.2,0.8,0.0,0.4,-0.1
+1,29,"Pyridine, 2-​[4-​(trifluoromethyl)​phenyl]​-",203065-88-7,C1=CC=NC(=C1)C2=CC=C(C=C2)C(F)(F)F,0.7,0.1,1.0,0.0,0.3,0.1
+1,30,4-(4-TRIFLUOROMETHYLPHENYL)PYRIDINE,220000-88-4,C1=CC(=CC=C1C2=CC=NC=C2)C(F)(F)F,0.7,0.5,1.0,0.0,0.6,0.1
+1,31,(E)-3-(2-(7-Chloroquinolin-2-yl)vinyl)benzaldehyde,120578-03-2,C1=CC(=CC(=C1)C=O)/C=C/C2=NC3=C(C=CC(=C3)Cl)C=C2,1.0,0.6,1.0,0.0,0.8,0.7
+1,32,4-Bromo-2-chloro-5-methylpyridine,867279-13-8,CC1=CN=C(C=C1Br)Cl,0.7,0.0,0.8,0.0,0.4,0.0
+1,33,4-Bromo-5-chloro-2-methylpyridine,1211529-34-8,CC1=CC(=C(C=N1)Cl)Br,0.9,0.1,0.9,0.0,0.2,0.2
+1,34,"3-Pyridinecarboxaldehyde, 2,4,6-trichloro-",1261269-66-2,C1=C(C(=C(N=C1Cl)Cl)C=O)Cl,0.6,0.1,0.9,0.0,0.2,0.0
+1,35,Benzo[f]quinoline,85-02-9,C1=CC=C2C(=C1)C=CC3=C2C=CC=N3,0.8,0.6,1.0,0.0,0.8,0.6
+1,36,"1,3-Dichloro-6-fluoroisoquinoline",1041423-26-0,C1=CC2=C(N=C(C=C2C=C1F)Cl)Cl,0.6,0.1,1.0,0.1,0.6,0.3
+1,37,"2,4-Dichloro-6-fluoroquinoline",406204-74-8,C1=CC2=C(C=C1F)C(=CC(=N2)Cl)Cl,0.5,0.3,0.9,0.1,0.5,0.3
+1,38,2-Chloro-5-phenylpyridine,66600-05-3,C1=CC=C(C=C1)C2=CN=C(C=C2)Cl,1.0,0.4,1.0,0.0,0.6,0.5
+1,39,2-Chloro-4-phenylpyridine,42260-39-9,C1=CC=C(C=C1)C2=CC(=NC=C2)Cl,0.9,0.0,1.0,0.0,0.9,0.3
+1,40,3-Benzyl-6-bromo-2-chloroquinoline,654655-68-2,C1=CC=C(C=C1)CC2=C(N=C3C=CC(=CC3=C2)Br)Cl,0.6,0.4,0.9,0.0,0.7,0.1
+1,41,"1,2,3,4-Tetrahydro-2-naphthalenone",530-93-8,C1CC2=CC=CC=C2CC1=O,0.2,0.0,0.7,0.0,0.1,-0.4
+1,42,"Pyridine, 2,4-dichloro-",26452-80-2,C1=CN=C(C=C1Cl)Cl,0.6,0.0,0.7,0.0,0.4,0.0
+1,43,8-Ethylquinoline,19655-56-2,CCC1=CC=CC2=C1N=CC=C2,0.9,0.2,1.0,0.0,0.6,0.5
+1,44,"Ethanone, 1-(2-quinolinyl)-",1011-47-8,CC(=O)C1=NC2=CC=CC=C2C=C1,1.0,0.1,1.0,0.0,0.4,0.7
+1,45,"2-(2,4-Difluorophenyl)pyridine",391604-55-0,C1=CC=NC(=C1)C2=C(C=C(C=C2)F)F,0.8,0.2,1.0,0.0,0.3,0.2
+1,46,"Quinoline, 7-bromo-2-chloro-3-methyl-",132118-47-9,CC1=CC2=C(C=C(C=C2)Br)N=C1Cl,0.8,0.1,1.0,0.0,0.5,0.2
+1,47,4-Bromo-6-chloro-8-methylquinoline,927800-42-8,CC1=CC(=CC2=C(C=CN=C12)Br)Cl,0.6,0.3,1.0,0.0,0.7,0.0
+1,48,6-Bromo-4-chloro-2-(trifluoromethyl)quinoline,1701-28-6,C1=CC2=C(C=C1Br)C(=CC(=N2)C(F)(F)F)Cl,0.4,0.3,0.9,0.0,0.3,-0.2
+1,49,7-Chloro-8-methylquinoline,78941-93-2,CC1=C(C=CC2=C1N=CC=C2)Cl,1.0,0.3,1.0,0.0,0.6,0.7
+1,50,8-Chloro-6-methylquinoline,19655-46-0,CC1=CC2=C(C(=C1)Cl)N=CC=C2,0.9,0.1,1.0,0.0,0.8,0.6
+2,1,"6-Chloro-3,4-dihydro-1H-quinolin-2-one",19358-40-8,C1CC(=O)NC2=C1C=C(C=C2)Cl,0.9,0.2,1.0,1.0,0.2,0.3
+2,2,(S)-(-)-1-(1-Naphthyl)ethylamine,10420-89-0,C[C@@H](C1=CC=CC2=CC=CC=C21)N,0.9,0.4,1.0,0.9,0.0,0.4
+2,3,3-(4-ISOPROPYLBENZYLIDENYL)INDOLIN-2-ONE,186611-55-2,CC(C)C1=CC=C(C=C1)/C=C\2/C3=CC=CC=C3NC2=O,0.7,0.7,1.0,0.9,0.5,0.6
+2,4,4-Chloro-2-Methylaniline,95-69-2,CC1=C(C=CC(=C1)Cl)N,1.0,0.0,0.9,1.0,0.2,0.6
+2,5,"N-(3,4-Dimethylphenyl)-3,4-dimethyl-aniline",55389-75-8,CC1=C(C=C(C=C1)NC2=CC(=C(C=C2)C)C)C,0.8,0.7,1.0,0.9,0.4,0.5
+2,6,Bis(3-tert-butylphenyl)amine,58164-04-8,CC(C)(C)C1=CC(=CC=C1)NC2=CC=CC(=C2)C(C)(C)C,0.3,0.6,1.0,0.7,0.1,-0.3
+2,7,8-Bromonaphthalen-1-ylamine,62456-34-2,C1=CC2=C(C(=C1)N)C(=CC=C2)Br,0.9,0.6,1.0,0.8,0.6,0.6
+2,8,4-Chloro-N-phenylbenzamide,6833-15-4,C1=CC=C(C=C1)NC(=O)C2=CC=C(C=C2)Cl,1.0,0.7,1.0,1.0,0.5,0.9
+2,9,"Benzamide, N-(4-chlorophenyl)-2,6-difluoro-",122987-01-3,C1=CC(=C(C(=C1)F)C(=O)NC2=CC=C(C=C2)Cl)F,0.9,0.7,1.0,1.0,0.6,0.7
+2,10,"BENZENETHIOL, 3,5-DIFLUORO-",99389-26-1,C1=C(C=C(C=C1F)S)F,0.6,0.0,1.0,0.8,0.0,0.1
+2,11,"(Z)-5,6-dihydrodibenzo[b,f]azocine",23194-93-6,C1C2=CC=CC=C2C=CC3=CC=CC=C3N1,0.5,0.6,1.0,1.0,0.6,0.2
+2,12,"2,4-Dichloroacetanilide",6975-29-7,CC(=O)NC1=C(C=C(C=C1)Cl)Cl,0.8,0.0,0.8,1.0,0.1,0.1
+2,13,"N1-METHYL-2,4-DICHLOROANILINE",35113-88-3,CNC1=C(C=C(C=C1)Cl)Cl,0.7,0.1,0.9,1.0,0.1,0.2
+2,14,3-Bromo-N-Phenylpropanamide,7661-07-6,C1=CC=C(C=C1)NC(=O)CCBr,1.0,0.1,1.0,1.0,0.1,0.6
+2,15,"9,9-Dimethylfluoren-2-amine",108714-73-4,CC1(C2=CC=CC=C2C3=C1C=C(C=C3)N)C,0.5,0.4,1.0,1.0,0.2,0.3
+2,16,3-Chloro-4-Methylacetanilide,7149-79-3,CC1=C(C=C(C=C1)NC(=O)C)Cl,1.0,0.1,1.0,1.0,0.3,0.4
+2,17,Azacyclododecan-2-one,1202-71-7,C1CCCCCNC(=O)CCCC1,0.5,0.2,0.8,0.8,0.0,0.1
+2,18,"2,4,4'-Trimethyldiphenylamine",94026-73-0,CC1=CC=C(C=C1)NC2=C(C=C(C=C2)C)C,0.4,0.3,1.0,0.9,0.1,-0.1
+2,19,Cholesterylamine,2126-93-4,C[C@H](CCCC(C)C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)N)C)C,0.1,0.5,1.0,0.7,0.0,-0.5
+2,20,N-Octadecylacetamide,3906-22-7,CCCCCCCCCCCCCCCCCCNC(=O)C,0.5,0.2,1.0,0.9,0.0,-0.1
+2,21,4TERTBUTYL4AMINOBIPHENYL,5728-71-2,CC(C)(C)C1=CC=C(C=C1)C2=CC=C(C=C2)N,0.7,0.5,1.0,1.0,0.2,0.5
+2,22,N-Phenylnaphthalen-1-amine,90-30-2,C1=CC=C(C=C1)NC2=CC=CC3=CC=CC=C32,0.7,0.5,1.0,1.0,0.6,0.6
+2,23,"N,9-Diphenyl-9H-carbazol-2-amine",1427316-55-9,C1=CC=C(C=C1)NC2=CC3=C(C=C2)C4=CC=CC=C4N3C5=CC=CC=C5,0.5,0.6,1.0,1.0,0.6,0.3
+2,24,"Acridine, 9,10-dihydro-9,9-diphenyl-",20474-15-1,C1=CC=C(C=C1)C2(C3=CC=CC=C3NC4=CC=CC=C42)C5=CC=CC=C5,0.1,0.5,1.0,0.8,0.4,-0.2
+2,25,3-Chloro-4-fluoro-N-methylaniline,77898-24-9,CNC1=CC(=C(C=C1)F)Cl,0.8,0.0,0.9,0.9,0.2,0.4
+2,26,2，6-dichloro-N-[(3-chlorophenyl)methyl]aniline,1024204-82-7,C1=CC(=CC(=C1)Cl)CNC2=C(C=CC=C2Cl)Cl,0.3,0.6,1.0,1.0,0.3,0.2
+2,27,2'-BROMO-4'-CHLOROACETANILIDE,57045-85-9,CC(=O)NC1=C(C=C(C=C1)Cl)Br,0.9,0.0,1.0,1.0,0.0,0.5
+2,28,"Acetamide, 2,2-dichloro-N-(2,6-dimethylphenyl)-",39084-88-3,CC1=C(C(=CC=C1)C)NC(=O)C(Cl)Cl,0.8,0.1,1.0,1.0,0.0,0.4
+2,29,"N-Ethyl-3,5-dimethylaniline",13342-22-8,CCNC1=CC(=CC(=C1)C)C,0.7,0.1,1.0,0.9,0.0,0.3
+2,30,"2-Naphthalenemethanamine, α-methyl-",1201-74-7,CC(C1=CC2=CC=CC=C2C=C1)N,0.6,0.6,1.0,1.0,0.1,0.4
+2,31,"Benzenethiol, 2,3,4,5,6-pentachloro-",133-49-3,C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)S,0.4,0.5,0.9,0.8,0.2,0.2
+2,32,Dioctylamine,1120-48-5,CCCCCCCCNCCCCCCCC,0.5,0.2,1.0,0.8,0.0,0.0
+2,33,2-Methyl-6-phenylaniline,14294-33-8,CC1=C(C(=CC=C1)C2=CC=CC=C2)N,0.8,0.3,1.0,0.9,0.4,0.5
+2,34,Undecanamide,2244-06-6,CCCCCCCCCCC(=O)N,0.8,0.0,1.0,1.0,0.0,0.3
+2,35,"10-Oxo-10,11-Dihydro-5H-dibenz[b,f]azepine",21737-58-6,C1C2=CC=CC=C2NC3=CC=CC=C3C1=O,0.9,0.6,1.0,0.9,0.8,0.7
+2,36,N-Phenylpicolinamide,10354-53-7,C1=CC=C(C=C1)NC(=O)C2=CC=CC=N2,1.0,0.2,0.9,1.0,0.5,0.9
+2,37,4-Fluoro-N-isopropylaniline,70441-63-3,CC(C)NC1=CC=C(C=C1)F,0.7,0.0,1.0,0.7,0.2,0.4
+2,38,(R)-(+)-N-Benzyl-1-Phenylethylamine,38235-77-7,C[C@H](C1=CC=CC=C1)NCC2=CC=CC=C2,0.9,0.3,1.0,0.9,0.0,0.4
+2,39,S-(-)-N-Benzyl-1-phenylethylamine,17480-69-2,C[C@@H](C1=CC=CC=C1)NCC2=CC=CC=C2,0.9,0.3,1.0,0.9,0.2,0.5
+2,40,"6-Bromo-1,2,3,4-tetrahydroquinoline",22190-35-8,C1CC2=C(C=CC(=C2)Br)NC1,0.2,0.0,0.8,1.0,0.0,-0.1
+2,41,"1H-Isoindol-1-one,6-fluoro-2,3-dihydro-(9CI)",340702-10-5,C1C2=C(C=C(C=C2)F)C(=O)N1,1.0,0.1,0.9,1.0,0.5,0.6
+2,42,"2-Propenamide, 3-(3,4-dichlorophenyl)-N-(1-methylpropyl)-",82351-05-1,CCC(C)NC(=O)/C=C/C1=CC(=C(C=C1)Cl)Cl,1.0,0.3,1.0,1.0,0.1,0.4
+2,43,4-(TRIFLUOROMETHYL)ACETANILIDE,349-97-3,CC(=O)NC1=CC=C(C=C1)C(F)(F)F,1.0,0.0,1.0,1.0,0.2,0.5
+2,44,"4-Bromo-3,3-dimethylindolin-2-one",870552-47-9,CC1(C2=C(C=CC=C2Br)NC1=O)C,0.6,0.3,1.0,1.0,0.0,0.4
+2,45,"Pyrrolidine, 2-(2,5-dichlorophenyl)-, (2R)-",1228569-01-4,C1C[C@@H](NC1)C2=C(C=CC(=C2)Cl)Cl,0.8,0.1,1.0,1.0,0.0,0.3
+2,46,"2,2,2-Trimethylacetanilide",6625-74-7,CC(C)(C)C(=O)NC1=CC=CC=C1,0.8,0.6,1.0,1.0,0.0,0.7
+2,47,5-Bromo-2-chloro-4-fluoroaniline,305795-89-5,C1=C(C(=CC(=C1Br)F)Cl)N,0.7,0.3,0.9,1.0,0.4,0.1
+2,48,"Benzene, isocyano-",931-54-4,[C-]#[N+]C1=CC=CC=C1,0.1,0.1,0.8,0.1,0.1,-0.4
+2,49,4-(Bis(4-fluorophenyl)methylene)piperidine,58113-36-3,C1CNCCC1=C(C2=CC=C(C=C2)F)C3=CC=C(C=C3)F,0.6,0.7,1.0,0.9,0.1,0.3
+2,50,6-Chloroisoindolin-1-one,58083-59-3,C1C2=C(C=C(C=C2)Cl)C(=O)N1,0.9,0.2,0.6,1.0,0.5,0.3
+3,1,(S)-(-)-1-(1-Naphthyl)ethylamine,10420-89-0,C[C@@H](C1=CC=CC2=CC=CC=C21)N,0.6,0.2,1.0,1.0,0.0,0.4
+3,2,4-Hexadecylaniline,79098-13-8,CCCCCCCCCCCCCCCCC1=CC=C(C=C1)N,0.8,0.4,1.0,1.0,0.0,0.2
+3,3,"4-Bromo-2,6-diisopropylaniline",80058-84-0,CC(C)C1=CC(=CC(=C1N)C(C)C)Br,0.5,0.2,1.0,1.0,0.1,0.1
+3,4,cis-11-Eicosenamide,10436-08-5,CCCCCCCC/C=C\CCCCCCCCCC(=O)N,0.5,0.5,1.0,0.9,0.0,0.1
+3,5,Leupeptin,103476-89-7,CC(C)C[C@@H](C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCN=C(N)N)C=O)NC(=O)C.CC(C)C[C@@H](C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCN=C(N)N)C=O)NC(=O)C.OS(=O)(=O)O,0.8,0.2,0.1,1.0,0.0,-0.1
+3,6,"4,4'-(Anthracene-9,10-Diylbis(Ethyne-2,1-Diyl))Dianiline",1186580-77-7,C1=CC=C2C(=C1)C(=C3C=CC=CC3=C2C#CC4=CC=C(C=C4)N)C#CC5=CC=C(C=C5)N,0.8,0.9,0.9,1.0,0.8,0.7
+3,7,"2-Naphthalenamine, 5,6,7,8-tetrahydro-5,5,8,8-tetramethyl-",92050-16-3,CC1(CCC(C2=C1C=CC(=C2)N)(C)C)C,0.4,0.1,0.9,0.8,0.0,-0.1
+3,8,6-AZIDO-HEXYLAMINE,349553-73-7,C(CCCN=[N+]=[N-])CCN,1.0,0.0,0.7,1.0,0.0,0.4
+3,9,2-Methyl-6-phenylaniline,14294-33-8,CC1=C(C(=CC=C1)C2=CC=CC=C2)N,0.8,0.5,1.0,1.0,0.4,0.6
+3,10,2-cyanoacetamide,107-91-5,C(C#N)C(=O)N,1.0,0.0,0.0,1.0,0.0,0.6
+3,11,4-(tert-Butyl)benzamide,56108-12-4,CC(C)(C)C1=CC=C(C=C1)C(=O)N,0.9,0.3,1.0,1.0,0.0,0.6
+3,12,4-Chloro-2-(trifluoromethyl)aniline,445-03-4,C1=CC(=C(C=C1Cl)C(F)(F)F)N,0.4,0.1,1.0,1.0,0.1,0.3
+3,13,"2,6-Dibromo-4-Chloroaniline",874-17-9,C1=C(C=C(C(=C1Br)N)Br)Cl,0.6,0.0,0.9,1.0,0.2,0.4
+3,14,"2,3,4-Trichloroaniline",634-67-3,C1=CC(=C(C(=C1N)Cl)Cl)Cl,0.4,0.1,0.9,1.0,0.1,0.1
+3,15,"4-Bromo-3,5-bis(trifluoromethyl)aniline",268733-18-2,C1=C(C=C(C(=C1C(F)(F)F)Br)C(F)(F)F)N,0.5,0.6,1.0,1.0,0.3,0.2
+3,16,XPhos Pd,1028206-56-5,CC(C)C1=CC(=C(C(=C1)C(C)C)C2=CC=CC=C2P(C3CCCCC3)C4CCCCC4)C(C)C.C1=CC=C([C-]=C1)CCN.Cl[Pd+],0.8,0.6,0.9,0.9,0.1,-0.3
+3,17,4-Chloro-2-(1，1-dimethylethyl)benzenamine,959528-03-1,CC(C)(C)C1=C(C=CC(=C1)Cl)N,0.7,0.1,1.0,1.0,0.0,0.4
+3,18,"1-NaphthalenaMine, 7-chloro-1,2,3,4-tetrahydro-, (1S)-",1228548-44-4,C1C[C@@H](C2=C(C1)C=CC(=C2)Cl)N,1.0,0.3,1.0,1.0,0.2,0.5
+3,19,2-Methylnaphthalen-1-amine,2246-44-8,CC1=C(C2=CC=CC=C2C=C1)N,1.0,0.2,1.0,0.9,0.4,0.7
+3,20,"Benzenamine, 3,4,5-tris(dodecyloxy)-",151237-05-7,CCCCCCCCCCCCOC1=CC(=CC(=C1OCCCCCCCCCCCC)OCCCCCCCCCCCC)N,0.3,0.4,1.0,1.0,0.0,-0.5
+3,21,Chloro[(tricyclohexylphosphine)-2-(2'-aminobiphenyl)]palladium(II),1353658-81-7,C1CCC(P(C2CCCCC2)C2CCCCC2)CC1.Nc1ccccc1-c1ccccc1[Pd]Cl,0.4,0.6,1.0,0.7,0.0,-0.2
+3,22,4-Bromo-2-tert-butylphenylamine,850012-44-1,CC(C)(C)C1=C(C=CC(=C1)Br)N,0.4,0.3,1.0,0.9,0.1,0.2
+3,23,4-Bromo-2-ethylaniline,45762-41-2,CCC1=C(C=CC(=C1)Br)N,0.9,0.0,1.0,1.0,0.1,0.6
+3,24,"Benzenamine, 3-chloro-2,6-diethyl-",67330-62-5,CCC1=C(C(=C(C=C1)Cl)CC)N,0.9,0.1,1.0,1.0,0.0,0.7
+3,25,2-Bromo-5-fluoro-4-nitroaniline,952664-69-6,C1=C(C(=CC(=C1F)[N+](=O)[O-])Br)N,1.0,0.1,0.9,1.0,0.4,0.8
+3,26,(Z)-Docos-13-enamide,112-84-5,CCCCCCCC/C=C\CCCCCCCCCCCC(=O)N,0.7,0.2,1.0,1.0,0.0,0.1
+3,27,2-Aminophenanthrene,3366-65-2,C1=CC=C2C(=C1)C=CC3=C2C=CC(=C3)N,0.4,0.5,1.0,0.9,0.5,0.1
+3,28,"3,5-Di-tert-butylaniline",2380-36-1,CC(C)(C)C1=CC(=CC(=C1)N)C(C)(C)C,0.3,0.4,1.0,0.8,0.0,-0.2
+3,29,"3,6-Dichloro-2-methylbenzenamine",62077-26-3,CC1=C(C=CC(=C1N)Cl)Cl,0.9,0.2,0.9,1.0,0.3,0.5
+3,30,"(1R,2R,3R,5S)-()-Isopinocampheylamine",69460-11-3,C[C@@H]1[C@H]2C[C@H](C2(C)C)C[C@H]1N,0.4,0.0,0.7,0.9,0.0,-0.2
+3,31,"2,3,6-Trichloroaniline",88963-39-7,C1=CC(=C(C(=C1Cl)N)Cl)Cl,0.7,0.2,0.9,0.9,0.2,0.3
+3,32,"2,6-Dibromo-4-fluoroaniline",344-18-3,C1=C(C=C(C(=C1Br)N)Br)F,0.7,0.1,0.7,1.0,0.4,0.4
+3,33,"2,6-Dibenzhydryl-4-methylaniline",56138-96-6,CC1=CC(=C(C(=C1)C(C2=CC=CC=C2)C3=CC=CC=C3)N)C(C4=CC=CC=C4)C5=CC=CC=C5,0.4,0.4,1.0,0.8,0.3,-0.3
+3,34,"(R)-1-(3,4-Dichlorophenyl)ethanamine hydrochloride",1212307-96-4,C[C@H](C1=CC(=C(C=C1)Cl)Cl)N.Cl,0.5,0.1,0.9,1.0,0.0,0.4
+3,35,3-Bromo-2-chloro-5-methoxyaniline,1263376-85-7,COC1=CC(=C(C(=C1)Br)Cl)N,0.9,0.0,0.9,1.0,0.2,0.4
+3,36,"4-Bromo-2,6-dichloroaniline",697-88-1,C1=C(C=C(C(=C1Cl)N)Cl)Br,0.6,0.2,0.9,1.0,0.2,0.4
+3,37,9H-Fluoren-2-amine,153-78-6,C1C2=CC=CC=C2C3=C1C=C(C=C3)N,0.7,0.6,1.0,1.0,0.6,0.5
+3,38,4-Bromo-2-chloroaniline,38762-41-3,C1=CC(=C(C=C1Br)Cl)N,0.9,0.2,0.9,1.0,0.5,0.5
+3,39,2-Amino-5-chlorobenzophenone,719-59-5,C1=CC=C(C=C1)C(=O)C2=C(C=CC(=C2)Cl)N,1.0,0.4,1.0,1.0,0.7,0.9
+3,40,Naphthalene-2-Carboxamide,2243-82-5,C1=CC=C2C=C(C=CC2=C1)C(=O)N,1.0,0.6,1.0,1.0,0.9,0.7
+3,41,"Methanone, (2-amino-4-chlorophenyl)phenyl-",4076-50-0,C1=CC=C(C=C1)C(=O)C2=C(C=C(C=C2)Cl)N,0.9,0.5,1.0,1.0,0.7,0.8
+3,42,"9-​Anthracenemethanamin​e, hydrochloride (1:1)",18004-58-5,C1=CC=C2C(=C1)C=C3C=CC=CC3=C2CN.Cl,0.7,0.8,1.0,1.0,0.3,0.6
+3,43,"Tricyclo[3.3.1.13,7]decan-2-amine",13074-39-0,C1C2CC3CC1CC(C2)C3N,0.6,0.3,0.8,0.9,0.0,-0.2
+3,44,"9,9-Dimethylfluoren-2-amine",108714-73-4,CC1(C2=CC=CC=C2C3=C1C=C(C=C3)N)C,0.4,0.2,1.0,1.0,0.1,0.1
+3,45,"2,6-Dibromo-4-tert-butylaniline",10546-67-5,CC(C)(C)C1=CC(=C(C(=C1)Br)N)Br,0.2,0.3,1.0,1.0,0.0,0.1
+3,46,"Tricyclo[3.3.1.13,7]decane-1-methanamine, α-methyl-, hydrochloride (1:1)",1501-84-4,CC(C12CC3CC(C1)CC(C3)C2)N.Cl,0.4,0.5,0.9,0.9,0.0,-0.1
+3,47,"2-Bromo-4,6-dichloroaniline",697-86-9,C1=C(C=C(C(=C1Cl)N)Br)Cl,0.7,0.2,1.0,1.0,0.5,0.3
+3,48,2-Fluoro-5-(trifluoromethyl)aniline,535-52-4,C1=CC(=C(C=C1C(F)(F)F)N)F,0.7,0.1,0.9,0.9,0.4,0.2
+3,49,2-Isopropyl-6-nitroaniline,79858-67-6,CC(C)C1=C(C(=CC=C1)[N+](=O)[O-])N,0.8,0.1,0.7,0.9,0.1,0.1
+3,50,4-tert-butyl-3-chlorobenzenamine,52756-36-2,CC(C)(C)C1=C(C=C(C=C1)N)Cl,0.3,0.1,1.0,0.9,0.0,0.0

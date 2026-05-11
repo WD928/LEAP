@@ -39,21 +39,6 @@ This repository contains data tables supporting the LEAP / Perovskite-RL manuscr
 | `benchmark/statistics/mcnemar_vs_reference_holm.csv` | Exact McNemar comparisons against Perovskite-RL with Holm-Bonferroni adjustment. |
 | `ablation/representation/figure3_bootstrap_ci_table.csv` | Bootstrap confidence intervals for the Figure 3 representation-ablation metrics. |
 | `candidate_selection/top50_validation_shortlists_mechanism_scores.csv` | Cleaned round-specific top-50 validation shortlist table. |
-| `manifest.json` | File inventory for the data release. |
-
-## What Is Not Included
-
-| Not included | Reason / alternative |
-|---|---|
-| Model weights | Hosted separately on Hugging Face; see the model link above. |
-| SFT and GRPO training datasets | Hosted separately on Hugging Face Datasets; see the dataset link above. |
-| Raw literature PDFs or full-text articles | Not redistributed in this data release. |
-| Logs and procurement tables | Excluded because they contain local run metadata or procurement-related information. |
-| Full internally curated candidate pool | Not released because it contains commercially actionable candidates and procurement-related filtering information. Cleaned top-50 validation shortlists are provided instead. |
-
-## Benchmark Holdout Note
-
-The benchmark source papers listed in `benchmark/benchmark_sources.csv` were held out from the Perovskite-RL SFT and GRPO training corpora. The `excluded_from_training` column records this status for each source file.
 
 ## License and Citation
 

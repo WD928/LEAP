@@ -13,6 +13,7 @@ This repository contains data tables supporting the LEAP / Perovskite-RL manuscr
 
 | Resource | Link | Notes |
 |---|---|---|
+| Manuscript | [arXiv:2605.20242](https://arxiv.org/abs/2605.20242) | Associated LEAP / Perovskite-RL preprint. |
 | Model weights | [JH976/Perovskite-RL](https://huggingface.co/JH976/Perovskite-RL) | Perovskite-RL model repository. Update this link if the public model repository uses a different name. |
 | Training datasets | [datasets/JH976/Perovskite-RL](https://huggingface.co/datasets/JH976/Perovskite-RL) | SFT and GRPO datasets for the language-model training stages. |
 | Data-release repository | [WD928/LEAP](https://github.com/WD928/LEAP) | Tables and source data used for benchmark, ablation, and candidate-selection reporting. |
@@ -46,14 +47,6 @@ This repository is released under the Apache License 2.0. See the `LICENSE` file
 
 ## Citation
 
-If you use this repository, please cite the associated arXiv preprint:
+Please cite the associated arXiv preprint if you use this repository:
 
-```bibtex
-@misc{wang2026leap,
-  title         = {LEAP: A Closed-Loop Framework for Perovskite Precursor Additive Discovery},
-  author        = {Wang, Xin-De and Chen, Zhi-Rui and Gao, Ze-Feng and Guo, Peng-Jie and Mu, Cheng and Lu, Zhong-Yi},
-  year          = {2026},
-  eprint        = {2605.20242},
-  archivePrefix = {arXiv},
-  url           = {https://arxiv.org/abs/2605.20242}
-}
+https://arxiv.org/abs/2605.20242

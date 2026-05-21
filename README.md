@@ -40,6 +40,20 @@ This repository contains data tables supporting the LEAP / Perovskite-RL manuscr
 | `ablation/representation/figure3_bootstrap_ci_table.csv` | Bootstrap confidence intervals for the Figure 3 representation-ablation metrics. |
 | `candidate_selection/top50_validation_shortlists_mechanism_scores.csv` | Cleaned round-specific top-50 validation shortlist table. |
 
-## License and Citation
+## License
 
-License and citation metadata should be finalized when the manuscript is public. If you use these data tables, cite the Perovskite-RL manuscript and the associated model and dataset releases.
+This repository is released under the Apache License 2.0. See the `LICENSE` file for details.
+
+## Citation
+
+If you use this repository, please cite the associated arXiv preprint:
+
+```bibtex
+@misc{wang2026leap,
+  title         = {LEAP: A Closed-Loop Framework for Perovskite Precursor Additive Discovery},
+  author        = {Wang, Xin-De and Chen, Zhi-Rui and Gao, Ze-Feng and Guo, Peng-Jie and Mu, Cheng and Lu, Zhong-Yi},
+  year          = {2026},
+  eprint        = {2605.20242},
+  archivePrefix = {arXiv},
+  url           = {https://arxiv.org/abs/2605.20242}
+}

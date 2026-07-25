@@ -29,7 +29,7 @@ This repository contains data tables supporting the LEAP / Perovskite-RL manuscr
 | Representation ablation | `ablation/representation/` | Hard/soft/hybrid representation ablation source data and bootstrap confidence intervals for Figure 3 metrics. |
 | Reasoning-source ablation | `ablation/reasoning_source/` | Perovskite-RL versus backbone soft-descriptor ablation tables and top-k diagnostics. |
 | Decision-policy ablation | `ablation/decision_policy/` | Expected-improvement, predicted-mean, uncertainty, and random-policy comparison data. |
-| Candidate selection | `candidate_selection/` | Round-specific top-50 validation shortlists with molecule identifiers and mechanism-score summaries. |
+| Candidate selection | `candidate_selection/` | Round-specific top-50 validation shortlists with molecule identifiers, GP outputs, mechanism scores, and experimental-review outcomes. |
 
 ## Key Files
 
@@ -39,7 +39,8 @@ This repository contains data tables supporting the LEAP / Perovskite-RL manuscr
 | `benchmark/statistics/model_summary_with_ci.csv` | Benchmark accuracy summary with confidence intervals. |
 | `benchmark/statistics/mcnemar_vs_reference_holm.csv` | Exact McNemar comparisons against Perovskite-RL with Holm-Bonferroni adjustment. |
 | `ablation/representation/figure3_bootstrap_ci_table.csv` | Bootstrap confidence intervals for the Figure 3 representation-ablation metrics. |
-| `candidate_selection/top50_validation_shortlists_mechanism_scores.csv` | Cleaned round-specific top-50 validation shortlist table. |
+| `candidate_selection/top50_validation_shortlists_mechanism_scores.csv` | Complete 150-row release table with GP-predicted response, predictive uncertainty, expected improvement, mechanism scores, and expert-review outcomes. |
+| `candidate_selection/README.md` | Candidate-selection column definitions and GP/EI scoring details. |
 
 ## License
 

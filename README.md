@@ -14,7 +14,7 @@ This repository contains data tables supporting the LEAP / Perovskite-RL manuscr
 | Resource | Link | Notes |
 |---|---|---|
 | Manuscript | [arXiv:2605.20242](https://arxiv.org/abs/2605.20242) | Associated LEAP / Perovskite-RL preprint. |
-| Model weights | [JH976/Perovskite-RL](https://huggingface.co/JH976/Perovskite-RL) | Perovskite-RL model repository. Update this link if the public model repository uses a different name. |
+| Model weights | [JH976/Perovskite-RL](https://huggingface.co/JH976/Perovskite-RL) | Perovskite-RL model repository. |
 | Training datasets | [datasets/JH976/Perovskite-RL](https://huggingface.co/datasets/JH976/Perovskite-RL) | SFT and GRPO datasets for the language-model training stages. |
 | Data-release repository | [WD928/LEAP](https://github.com/WD928/LEAP) | Tables and source data used for benchmark, ablation, and candidate-selection reporting. |
 
@@ -29,7 +29,7 @@ This repository contains data tables supporting the LEAP / Perovskite-RL manuscr
 | Representation ablation | `ablation/representation/` | Hard/soft/hybrid representation ablation source data and bootstrap confidence intervals for Figure 3 metrics. |
 | Reasoning-source ablation | `ablation/reasoning_source/` | Perovskite-RL versus backbone soft-descriptor ablation tables and top-k diagnostics. |
 | Decision-policy ablation | `ablation/decision_policy/` | Expected-improvement, predicted-mean, uncertainty, and random-policy comparison data. |
-| Candidate selection | `candidate_selection/` | Round-specific top-50 validation-shortlist identities, actual shortlist positions, mechanism scores, and experimental-advancement status. |
+| Candidate selection | `candidate_selection/` | Round-specific top-50 validation-shortlist identities, actual shortlist positions, GP/EI annotations, mechanism scores, and experimental-advancement status. |
 
 ## Key Files
 
@@ -39,7 +39,7 @@ This repository contains data tables supporting the LEAP / Perovskite-RL manuscr
 | `benchmark/statistics/model_summary_with_ci.csv` | Benchmark accuracy summary with confidence intervals. |
 | `benchmark/statistics/mcnemar_vs_reference_holm.csv` | Exact McNemar comparisons against Perovskite-RL with Holm-Bonferroni adjustment. |
 | `ablation/representation/figure3_bootstrap_ci_table.csv` | Bootstrap confidence intervals for the Figure 3 representation-ablation metrics. |
-| `candidate_selection/top50_validation_shortlists_mechanism_scores.csv` | 150-row release table with shortlist identities, actual round-specific positions, mechanism scores, and experimental-advancement status. |
+| `candidate_selection/top50_validation_shortlists_mechanism_scores.csv` | 150-row release table with shortlist identities, actual round-specific positions, GP-predicted mean response, predictive uncertainty, expected improvement, mechanism scores, and experimental-advancement status. |
 | `candidate_selection/README.md` | Candidate-selection column definitions and GP/EI scoring details. |
 
 ## License

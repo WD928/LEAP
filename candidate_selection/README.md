@@ -5,7 +5,10 @@ validation-shortlist entries for each of the three experimental rounds (150
 rows in total). The molecule identities and round-specific shortlist positions
 are the actual round-specific records used in the manuscript. The tested
 additives occupy shortlist positions 25, 1, and 10 in rounds 1, 2, and 3,
-respectively.
+respectively. The file also provides the associated GP-predicted mean response,
+predictive uncertainty, and expected-improvement score for every entry. These
+numerical fields are aligned to the original publicly released round-specific
+shortlist order recorded by `top50_rank`.
 
 ## Column Definitions
 
@@ -14,6 +17,9 @@ respectively.
 | `round` | Experimental validation round (1-3). |
 | `top50_rank` | Actual position in the released round-specific validation shortlist. |
 | `name_en`, `cas`, `SMILES` | Molecule identifiers. |
+| `predicted_mean_response` | GP-predicted mean response. |
+| `predictive_uncertainty` | GP posterior predictive standard deviation. |
+| `expected_improvement_score` | Expected-improvement acquisition score. |
 | `binding_mode_score` | Mean Perovskite-RL binding-mode descriptor score. |
 | `interfacial_shielding_score` | Mean interfacial-shielding descriptor score. |
 | `hydrophobic_protection_score` | Mean hydrophobic-protection descriptor score. |

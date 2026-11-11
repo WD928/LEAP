@@ -7,13 +7,14 @@
   <img src="https://img.shields.io/badge/status-manuscript%20support-lightgrey" alt="Status">
 </p>
 
-This repository contains data tables supporting the LEAP / Perovskite-RL manuscript. It is a data-release repository: model weights, Hugging Face training datasets, raw PDFs, logs, procurement tables, and the full internally curated candidate pool are not stored here.
+This repository contains supporting data for the LEAP study, [A closed-loop framework for perovskite precursor additive discovery](https://doi.org/10.1038/s43246-026-01407-3), published in *Communications Materials* (2026). It is a data-release repository: model weights, Hugging Face training datasets, raw PDFs, logs, procurement tables, and the full internally curated candidate pool are not stored here.
 
 ## Resource Links
 
 | Resource | Link | Notes |
 |---|---|---|
-| Manuscript | [arXiv:2605.20242](https://arxiv.org/abs/2605.20242) | Associated LEAP / Perovskite-RL preprint. |
+| Published article | [Communications Materials](https://doi.org/10.1038/s43246-026-01407-3) | Peer-reviewed journal article. |
+| Preprint | [arXiv:2605.20242](https://arxiv.org/abs/2605.20242) | Earlier preprint version. |
 | Model weights | [JH976/Perovskite-RL](https://huggingface.co/JH976/Perovskite-RL) | Perovskite-RL model repository. |
 | Training datasets | [datasets/JH976/Perovskite-RL](https://huggingface.co/datasets/JH976/Perovskite-RL) | SFT and GRPO datasets for the language-model training stages. |
 | Data-release repository | [WD928/LEAP](https://github.com/WD928/LEAP) | Tables and source data used for benchmark, ablation, and candidate-selection reporting. |
@@ -48,6 +49,6 @@ This repository is released under the Apache License 2.0. See the `LICENSE` file
 
 ## Citation
 
-Please cite the associated arXiv preprint if you use this repository:
+If you use the data in this repository, please cite the published article:
 
-https://arxiv.org/abs/2605.20242
+Wang, X.-D., Chen, Z.-R., Gao, Z.-F. et al. A closed-loop framework for perovskite precursor additive discovery. *Communications Materials* (2026). [DOI: 10.1038/s43246-026-01407-3](https://doi.org/10.1038/s43246-026-01407-3)
